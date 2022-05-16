@@ -4,13 +4,13 @@ New York University (NYU) • Interactive Media Arts Global Low Residency (IMA L
 ## Course Sections
 
 ### Section 1
-**Time:** Mon & Wed 10:30am - 12:30pm ET • [Schedule & Homework](https://github.com/ellennickles/creative-coding-summer-2021/blob/main/homework-ellen.md)  
+**Time:** Mon & Wed 10:30am - 12:30pm ET • [Schedule & Homework](https://github.com/ellennickles/creative-coding-summer-2022/blob/main/homework-ellen.md)  
 **Instructor:** Ellen Nickles  
 **Contact:** [ellen.nickles@nyu.edu](mailto:ellen.nickles@nyu.edu) or Discord @Ellen (she/her)  
 **Office Hours:** Tues 10:00am - 12:00pm ET [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUJBXzVpUFp3azhlfGRlZmF1bHR8MDk4NDA1OWMzNzEyMThhZjVkMTgzYWI3YmUxMWNmY2M)  
 
 ### Section 2
-**Time:** Mon & Wed 8:30pm - 10:30pm ET • [Schedule & Homework](https://github.com/ellennickles/creative-coding-summer-2021/blob/main/homework-carrie.md)  
+**Time:** Mon & Wed 8:30pm - 10:30pm ET • [Schedule & Homework](https://github.com/ellennickles/creative-coding-summer-2022/blob/main/homework-carrie.md)  
 **Instructor:** Carrie Wang  
 **Contact:** [sw3923@nyu.edu](mailto:sw3923@nyu.edu) or Discord @Carrie Wang  
 **Office Hours:** Mon & Wed 6:30pm - 7:30pm [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UURGcGNKNkVCLUNlfGRlZmF1bHR8ZmFlMTM5OTEzZDAwMTJmNWU5ZDdkNzMwMjg2N2RiYzU)
@@ -23,12 +23,12 @@ If no office hours appointments are available, please send your instructor an em
 
 **Course Discourse Tag:** [creativecoding](https://discourse.imany.io/)
 * Discourse is an asynchronous Q&A forum for peer support for troubleshooting and solving technical issues, as well as for archiving discussions long-term. As more questions accumulate over time, it will become a useful technical support resource for everyone in our community. Feel free to answer other students' questions, too!
-* **How to ask code-related questions:** [Some examples](https://github.com/ellennickles/creative-coding-summer-2021/blob/main/example-code-questions.md)
+* **How to ask code-related questions:** [Some examples](https://github.com/ellennickles/creative-coding-summer-2022/blob/main/example-code-questions.md)
 
 **Course Discord Channel:** [#creative-coding](https://discord.com/channels/837378120096940062/851891869151658009)
 * Think of Discord as chat. It’s a platform designed for synchronous connections and community messaging. If you need a question answered in real-time, consider posting here to chat with an instructor, a resident, or a student who is currently online.
 
-**[General Resources and Inspiration](https://github.com/ellennickles/creative-coding-summer-21/wiki)**
+**[General Resources and Inspiration](https://github.com/ellennickles/creative-coding-summer-22/wiki)**
 
 ## Description
 This is a hands-on introduction to programming the computer for creative applications. This course will introduce computational thinking and explore fundamental coding concepts, such as order of operations, logic sequencing, data structures, data flow, and event-driven interactions in the context of screen-based projects. Iterative assignments will facilitate the development of a final creative code-driven experience. The open source, JavaScript-based [p5.js](https://p5js.org/) programming framework for creative coding is the primary vehicle for the class using the [web editor for p5.js](https://editor.p5js.org/). Both sections assume no programming experience at all.
