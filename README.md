@@ -18,7 +18,7 @@ New York University (NYU) • Interactive Media Arts Global Low Residency (IMA L
 If no office hours appointments are available, please send your instructor an email with three good times for you, and they will send you a calendar invite with a Zoom link.
 
 ## General Resources and Inspiration
-**[JavaScript and p5.js tutorials and creative coding projects](https://github.com/ellennickles/creative-coding-summer-22/wiki)**
+**[JavaScript and p5 tutorials and creative coding projects](https://github.com/ellennickles/creative-coding-summer-22/wiki)**
 
 ## Support
 **Course Residents:** (names TBA)  
@@ -34,15 +34,15 @@ If no office hours appointments are available, please send your instructor an em
 * Think of Discord as chat. It’s a platform designed for synchronous connections and community messaging. If you need a question answered in real-time, consider posting here to chat with an instructor, a resident, or a student who is currently online.
 
 ## Description
-This is a hands-on introduction to programming the computer for creative applications. This course will introduce computational thinking and explore fundamental coding concepts, such as order of operations, logic sequencing, data structures, data flow, and event-driven interactions in the context of screen-based projects. Iterative assignments will facilitate the development of a final creative code-driven experience. The open source, JavaScript-based [p5.js](https://p5js.org/) (p5) programming framework for creative coding is the primary vehicle for the class using the [web editor for p5.js](https://editor.p5js.org/). Both sections assume no programming experience at all.
+This is a hands-on introduction to programming the computer for creative applications. This course will introduce computational thinking and explore fundamental coding concepts, such as order of operations, logic sequencing, data structures, data flow, and event-driven interactions in the context of screen-based projects. Iterative assignments will facilitate the development of a final creative code-driven experience. The open source, JavaScript-based [p5.js](https://p5js.org/) (p5) programming framework for creative coding is the primary vehicle for the class using the [web editor for p5](https://editor.p5js.org/). Both sections assume no programming experience at all.
 
 ## Learning Objectives
 Upon completion of this course, we will be able to:
 * describe possibilities of computational thinking and coding for creative applications;
-* recognize p5.js as a Javascript framework for drawing graphics and working with media on the HTML Canvas element of a web page;
+* recognize p5 as a Javascript framework for drawing graphics and working with media on the HTML Canvas element of a web page;
 * identify fundamental coding concepts, such as variables, conditionals, iteration, functions, arrays, and objects;
-* identify approaches to debug errors in our code, including how to interpret error messages and print messages to the Console of the p5.js web editor;
-* practice and apply these coding concepts and debugging approaches in our creative work using p5.js.
+* identify approaches to debug errors in our code, including how to interpret error messages and print messages to the Console of the p5 web editor;
+* practice and apply these coding concepts and debugging approaches in our creative work using p5.
 
 ## Community Guidelines
 Following [NYU's Student Conduct Policies](https://tinyurl.com/scpnyu) and the [IMA Low Res Rules of Play](https://docs.google.com/document/d/1QH9lqtzUl8qOX9goJIKEmvMUpfPgLjRJpKm-UPPnFHs/edit#heading=h.4qxpmfter73o), we are committed to providing an inclusive, welcoming, and harassment-free space for everyone in the community. Harassment or discrimination in any form will not be tolerated, and this applies to any interactions and content in all IMA Low Res spaces including but not limited to the NYU IMA Low Res Creative Coding Summer 2021 classes.
