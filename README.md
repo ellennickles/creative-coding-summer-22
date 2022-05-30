@@ -17,21 +17,24 @@ New York University (NYU) • Interactive Media Arts Global Low Residency (IMA L
 
 If no office hours appointments are available, please send your instructor an email with three good times for you, and they will send you a calendar invite with a Zoom link.
 
+## General Resources and Inspiration
+**[JavaScript and p5.js tutorials and creative coding projects](https://github.com/ellennickles/creative-coding-summer-22/wiki)**
+
 ## Support
-**Course Residents:** Rashida Kamal, Yuguang Zhang, and Enrique García Alcalá   
-**Contact and Office Hours:** [Email and calendar sign up](https://www.notion.so/imalowres/c22659dbfffd47ad8eaf20d4a1db0d43?v=c4229d5490f54b65bb159e804478d429)
+**Course Residents:** (names TBA)  
+**Contact and Office Hours:** [Email and calendar sign up]() (link TBA)
 
-**Course Discourse Tag:** [creativecoding](https://discourse.imany.io/)
+**How do I ask code-related questions?** [Example questions](https://github.com/ellennickles/creative-coding-summer-22/blob/main/example-code-questions.md)
+
+**Course Discourse Tag:** [creativecoding](https://discourse.imany.io/) (resource TBD) 
 * Discourse is an asynchronous Q&A forum for peer support for troubleshooting and solving technical issues, as well as for archiving discussions long-term. As more questions accumulate over time, it will become a useful technical support resource for everyone in our community. Feel free to answer other students' questions, too!
-* **How to ask code-related questions:** [Some examples](https://github.com/ellennickles/creative-coding-summer-22/blob/main/example-code-questions.md)
 
-**Course Discord Channel:** [#creative-coding](https://discord.com/channels/837378120096940062/851891869151658009)
+
+**Course Discord Channel:** [#creative-coding]() (link TBA)
 * Think of Discord as chat. It’s a platform designed for synchronous connections and community messaging. If you need a question answered in real-time, consider posting here to chat with an instructor, a resident, or a student who is currently online.
 
-**[General Resources and Inspiration](https://github.com/ellennickles/creative-coding-summer-22/wiki)**
-
 ## Description
-This is a hands-on introduction to programming the computer for creative applications. This course will introduce computational thinking and explore fundamental coding concepts, such as order of operations, logic sequencing, data structures, data flow, and event-driven interactions in the context of screen-based projects. Iterative assignments will facilitate the development of a final creative code-driven experience. The open source, JavaScript-based [p5.js](https://p5js.org/) programming framework for creative coding is the primary vehicle for the class using the [web editor for p5.js](https://editor.p5js.org/). Both sections assume no programming experience at all.
+This is a hands-on introduction to programming the computer for creative applications. This course will introduce computational thinking and explore fundamental coding concepts, such as order of operations, logic sequencing, data structures, data flow, and event-driven interactions in the context of screen-based projects. Iterative assignments will facilitate the development of a final creative code-driven experience. The open source, JavaScript-based [p5.js](https://p5js.org/) (p5) programming framework for creative coding is the primary vehicle for the class using the [web editor for p5.js](https://editor.p5js.org/). Both sections assume no programming experience at all.
 
 ## Learning Objectives
 Upon completion of this course, we will be able to:
@@ -45,25 +48,25 @@ Upon completion of this course, we will be able to:
 Following [NYU's Student Conduct Policies](https://tinyurl.com/scpnyu) and the [IMA Low Res Rules of Play](https://docs.google.com/document/d/1QH9lqtzUl8qOX9goJIKEmvMUpfPgLjRJpKm-UPPnFHs/edit#heading=h.4qxpmfter73o), we are committed to providing an inclusive, welcoming, and harassment-free space for everyone in the community. Harassment or discrimination in any form will not be tolerated, and this applies to any interactions and content in all IMA Low Res spaces including but not limited to the NYU IMA Low Res Creative Coding Summer 2021 classes.
 
 ## Structure and Teaching Methodology
-This is a 5-week course that meets twice a week, synchronously in Zoom. We will have assignments to do before each class, and these assignments will build towards a final project that we will present at the end of the semester.
+This is a 5-week course that meets twice a week, synchronously in Zoom. There are assignments to do before each class, and these assignments will build towards a final project that we will present at the end of the semester.
 
-This course embraces an active-learning approach with the belief that programming is best understood by doing. In keeping with this approach, class time will be structured as a workshop and seminar instead of a lecture, relying heavily on group discussion and participation. Weekly video tutorials to watch before class sessions will introduce fundamental coding concepts. During class, supplemental code examples will be presented and discussed before hands-on work together. Time will also be allotted to share our weekly assignments. Examples and assignments will iteratively build upon lessons learned in preceding classes.  
+This course embraces an active-learning approach with the belief that programming is best understood by doing. In keeping with this approach, class time will be structured as a workshop and seminar instead of a lecture, relying heavily on group discussion and participation. Weekly video tutorials to watch before class sessions will introduce fundamental coding concepts. During class, supplemental code examples will be presented and discussed before hands-on work together. Time will also be allotted to share weekly assignments. Examples and assignments will iteratively build upon lessons learned in preceding classes.  
 
-We are encouraged to reach out to the instructors outside of class to ask questions, share ideas/feedback, and discuss topics in detail.
+You are encouraged to reach out to the instructors outside of class to ask questions, share ideas/feedback, and discuss topics in detail.
 
 
 ## Assignments and Final Project
 ### Weekly Assignments 
-* Before class, we will watch video tutorials about the fundamental coding concepts that we will practice together when we meet.
-* We will also have weekly programming assignments that are relevant to the material from previous classes. Each week will include a series of practice questions and one open-ended exercise to apply the concepts that we practiced in class. The assignments are required, and we should be prepared to show and talk about them in class. 
-* We should submit our weekly programming assignments by the following deadlines:
-    * For Section 1 with Ellen, submit by 6:00am ET the day of our class.
+* Before class, watch the video tutorials about the fundamental coding concepts to practice together when we meet.
+* There are also weekly programming assignments that are relevant to the material from previous classes. Each week will include a series of practice questions and one open-ended exercise to apply the concepts that we practice in class. The assignments are required, and you should be prepared to show and talk about them in class. 
+* Submit your weekly programming assignments by the following deadlines:
+    * For Section 1 with Ellen, submit by 8:00am ET the day of our class.
     * For Section 2 with Carrie, submit by 10:00am ET the day of our class. 
 
 ### Final Project
-* The course will culminate with the completion of a final project to be shared in class. 
-* We are expected to push our abilities to produce something that builds off or is inspired by the concepts we cover during the semester. 
-* We are welcome to combine our final project for this class with a final project from another class.
+* The course will culminate with the completion of a final project to share in class. 
+* You are expected to push your abilities to produce something that builds off or is inspired by the concepts covered during the semester. 
+* You are welcome to combine your final project for this class with a final project from another class.
 
 ## Evaluation
 This class uses a Pass/Fail grading system. A Pass is equivalent to an A or a B grade, and anything less is considered a Fail.
