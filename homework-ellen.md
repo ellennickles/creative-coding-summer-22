@@ -5,7 +5,7 @@ Creative Coding Section 1 • Meeting Mon & Wed 10:30am - 12:30pm ET
 - [Homework Guidelines](https://github.com/ellennickles/creative-coding-summer-22/blob/main/homework-ellen.md#homework-guidelines)
 - Week 0 • [Pre-Work Assignment and Drawing in p5](https://github.com/ellennickles/creative-coding-summer-22/blob/main/homework-ellen.md#week-0--pre-work-assignment-and-drawing-in-p5)
 - Week 1 • Introduction and Animation
-- Week 2 • Interaction and Repetition]
+- Week 2 • Interaction and Repetition
 - Week 3 • Organization
 - Week 4 • More Repetition and Media
 - Week 5 • More Media and Final Project
