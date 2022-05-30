@@ -1,7 +1,5 @@
 # Example Code Questions
 
-Credit: [Sourced from ICM Code](https://github.com/ITPNYU/ICM-2019-Code/wiki/Example-Questions)
-
 Figuring out how to ask questions in a technical class can be a learning process all its own. Here's a breakdown with examples to get the process started. Try to be as specific as you can. 
 
 ## I have a problem with my code.
@@ -37,3 +35,5 @@ console.log("Position: " + x);
 ```javascript
 quad(138, 131, 186, 120, 169, 263, 230, 276);
 ```
+
+Based on examples from [ICM Code](https://github.com/ITPNYU/ICM-2019-Code/wiki/Example-Questions)
