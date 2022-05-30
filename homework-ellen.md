@@ -3,17 +3,17 @@ Creative Coding Section 1 • Meeting Mon & Wed 10:30am - 12:30pm ET
 
 - [Course Resources](https://github.com/ellennickles/creative-coding-summer-22/blob/main/homework-ellen.md#course-resources)
 - [Homework Guidelines](https://github.com/ellennickles/creative-coding-summer-22/blob/main/homework-ellen.md#homework-guidelines)
-- Week 0 • [Pre-Work Assignment and Drawing in p5]() (link TBA)
-- Week 1 • [Introduction and Animation]() (link TBA)
-- Week 2 • [Interaction and Repetition]() (link TBA)
-- Week 3 • [Organization]() (link TBA)
-- Week 4 • [More Repetition and Media]() (link TBA)
-- Week 5 • [More Media and Final Project]() (link TBA)
+- Week 0 • [Pre-Work Assignment and Drawing in p5](https://github.com/ellennickles/creative-coding-summer-22/blob/main/homework-ellen.md#week-0--pre-work-assignment-and-drawing-in-p5)
+- Week 1 • Introduction and Animation
+- Week 2 • Interaction and Repetition]
+- Week 3 • Organization
+- Week 4 • More Repetition and Media
+- Week 5 • More Media and Final Project
 
 ---
 
 ## Course Resources
-- [Our class Miro board](tinyurl.com/lrcc-22-miro)
+- [Our class Miro board](https://tinyurl.com/lrcc-22-miro)
 - [Zoom Recordings](https://docs.google.com/document/d/1oifbYgOYC9E1IddxTW6muGfXXOWN4L5bXX1jWDHrCYI/edit?usp=sharing)
 - [Syllabus](https://github.com/ellennickles/creative-coding-summer-22) with my contact information, student hours sign-up, and additional course support resources and projects for creative inspiration
 - [IMA Low Res Notion Summer 2022]() with links to all program resources, including the Creative Coding Google Drive folder (link TBA)
