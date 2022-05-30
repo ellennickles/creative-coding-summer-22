@@ -48,7 +48,7 @@ ___
     - Have a place online to post your homework with the ability for me to provide support and feedback comments. This could be a website/blog, Notion page, or even a Google document. If you’re not sure what to use, please reach out to me so I can help.
     - **Update to the latest version of Zoom**.
 - WATCH • [Coding Train videos 1.1-1.6](https://thecodingtrain.com/beginners/p5js/) ~1hr 20min
-- CREATE • Create a “self-portrait.”. Think about what a self-portrait means to you. Is it a depiction of what you look like? A bridge between your private and public regard? Or a collection of your lived experiences? 
+- CREATE • Create a “self-portrait". Think about what a self-portrait means to you. Is it a depiction of what you look like? A bridge between your private and public regard? Or a collection of your lived experiences? 
     - Consult the p5.js Reference. Add comments to your code to describe the different parts.
     - Submit your "self portrait" sketch [here](https://docs.google.com/document/d/1a8PWe7tYTqlKARpk3FE0J8gkbMGzK6skOoMTXc8hTsQ/edit#heading=h.7hcg69t05zcn). We'll look at them in the first class!
 
