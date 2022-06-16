@@ -16,7 +16,7 @@ All homework assignments are due at 10:00am New York Time on the day of our clas
 ## Week 00: Drawing in p5.js
 ————————————————————————————
 
-***To be completed before the 1st class.***
+***To be completed before Saturday, July 9th.***
 * Watch: [Coding Train videos 1.1-1.6](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 * Log in to the [p5 web editor](https://editor.p5js.org/).
 * Create a “self-portrait”. Think about what a self-portrait means to you. Is it a depiction of what you look like? A bridge between your private and public regard? Or a collection of your lived experiences?  
