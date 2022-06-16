@@ -10,7 +10,7 @@ New York University (NYU) • Interactive Media Arts Global Low Residency (IMA L
 **Office Hours:** Tues 10:00am - 12:00pm ET [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUJBXzVpUFp3azhlfGRlZmF1bHR8MDk4NDA1OWMzNzEyMThhZjVkMTgzYWI3YmUxMWNmY2M)  
 
 ### Section 2
-**Time:** Mon & Wed 8:30pm - 10:30pm ET • [Schedule & Homework](https://github.com/ellennickles/creative-coding-summer-22/blob/main/homework-carrie.md)  
+**Time:** Mon & Wed 8:00pm - 10:00pm ET • [Schedule & Homework](https://github.com/ellennickles/creative-coding-summer-22/blob/main/homework-carrie.md)  
 **Instructor:** Carrie Wang  
 **Contact:** [sw3923@nyu.edu](mailto:sw3923@nyu.edu) or Discord @Carrie Wang  
 **Office Hours:** Mon & Wed 6:30pm - 7:30pm [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UURGcGNKNkVCLUNlfGRlZmF1bHR8ZmFlMTM5OTEzZDAwMTJmNWU5ZDdkNzMwMjg2N2RiYzU)
