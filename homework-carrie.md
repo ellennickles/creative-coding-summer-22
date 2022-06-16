@@ -1,5 +1,5 @@
 # Carrie's Section / Schedule & Homework
-Class Meetings: Mon & Wed 8:30pm - 10:30pm New York Time
+Class Meetings: Mon & Wed 8:00pm - 10:00pm New York Time
 
 All homework assignments are due at 10:00am New York Time on the day of our class.
 
