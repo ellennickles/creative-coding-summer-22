@@ -5,7 +5,7 @@
 | Meeting Time   | Mon & Wed 10:30am - 12:30pm ET |
 | Location   | [Zoom meeting link](https://nyu.zoom.us/j/98142998539?pwd=YmExNWZQVDJNN1VJdjU3MWhMakZidz09) |
 | Contact | [ellen.nickles@nyu.edu](mailto:ellen.nickles@nyu.edu) or Discord @Ellen (she/her)<br>On weekdays I'll do my best to respond within 24 hours |
-| Office Hours  | Mon & Wed 1pm - 2pm ET or contact me<br>[Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUJBXzVpUFp3azhlfGRlZmF1bHR8MDk4NDA1OWMzNzEyMThhZjVkMTgzYWI3YmUxMWNmY2M) for in person or Zoom meetings |
+| Office Hours  | Mon & Wed 1:00pm - 2:00pm ET or contact me<br>[Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUJBXzVpUFp3azhlfGRlZmF1bHR8MDk4NDA1OWMzNzEyMThhZjVkMTgzYWI3YmUxMWNmY2M) for in person or Zoom meetings |
 | Residents  | [Contact and office hours](https://www.notion.so/imalowres/5f28a05d4b224edc973329160cc1f931?v=3892832ed7724792bd52a5415131f1a8) | 
 | Additional Resources  | [Our Miro board](https://tinyurl.com/lrcc-22-miro)<br>[How to ask code-related questions: examples](https://github.com/ellennickles/creative-coding-summer-22/blob/main/example-code-questions.md)<br>[JavaScript / p5 tutorials and creative coding projects](https://github.com/ellennickles/creative-coding-summer-22/wiki)<br>[IMA Low Res Notion Summer 2022](https://www.notion.so/imalowres/Summer-2022-9cfdef2d82aa4f44a7199e9d04bd0adf)|
 
