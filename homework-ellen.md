@@ -1,6 +1,6 @@
 # Ellen's Section / Schedule & Homework
 
-| Section 1 Info  |  |
+| Section 1 Information  |  |
 | :--- | ----------- |
 | Meeting Time   | Mon & Wed 10:30am - 12:30pm ET |
 | Location   | [Zoom meeting link](https://nyu.zoom.us/j/98142998539?pwd=YmExNWZQVDJNN1VJdjU3MWhMakZidz09) |
