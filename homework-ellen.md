@@ -25,7 +25,7 @@ All assignments will be posted on this page, and all are required. Unless otherw
 There are programming exercises and tutorials to complete each week:
 - **Reading and Video Tutorials** • Before class, read and/or watch the assigned tutorials about fundamental coding concepts and creative programming techniques to practice together when we meet in class.
 - **Practice Questions** • These questions are an opportunity to practice the concepts introduced in class. You are expected to add links to your p5 sketches directly to the weekly assignment document* (linked below).
-- **<strong>Creative Exercise and Blog Post**</strong> • Each week there is an open-ended exercise to apply the concepts that we practice. You are expected to add links to your blog posts directly to the the weekly assignment document. **Include a link to your p5 sketch in your blog post and answer these questions:**
+- <strong>Creative Exercise and Blog Post</strong>** • Each week there is an open-ended exercise to apply the concepts that we practice. You are expected to add links to your blog posts directly to the the weekly assignment document. Include a link to your p5 sketch in your blog post and answer these questions:
     - What did you do?
     - What worked?
     - What didn’t work, and what steps did you take to try to solve the issue?
@@ -35,7 +35,7 @@ A big part of learning in the IMA Low Res program is learning from each other. S
 
 \*Log in to your NYU account to access the document.
 
-\**If you are struggling with the weekly exercises, put your energy into writing about what didn't work and how you tried to solve it. It is totally okay to vent your frustrations. Writing a blog post helps to remember and synthesize what you did and tried to do. Think of it as writing a reference guide for your future self.
+\**If you are struggling with the weekly exercises, put your energy into writing about what didn't work and how you tried to solve it. It is totally okay to vent your frustrations. Writing a blog post can help synthesize what you did and tried to do. Think of it as writing a reference guide for your future self.
 
 
 ## Pre-Work Assignment and Drawing in p5
