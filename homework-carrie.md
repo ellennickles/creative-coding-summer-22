@@ -60,10 +60,8 @@ All homework assignments are due at 8:00am New York Time on the day of our class
 #### Homework Assignment:
 * TEST YOURSELF // Complete [Worksheet 1](https://docs.google.com/document/d/1LrgtRE8Bivf0rcE6XpapoVU11YZ9wHuA4iTCWLYdOvQ/edit#heading=h.l9r5tajacegp).
 * WATCH // [Coding Train Videos 3.1-4.2](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about conditionals and repeat loops for next week's classes.
-* CREATE // Make a sketch that includes all of these:
-  * One element controlled by the mouse.
-  * One element that changes over time, independently of the mouse.
-  * One element that is different every time you run the sketch.
+* CREATE // TBD
+  * Consult the [reference page](https://p5js.org/reference/) for new ideas.
   * **Submit your sketches [here](https://docs.google.com/document/d/1LrgtRE8Bivf0rcE6XpapoVU11YZ9wHuA4iTCWLYdOvQ/edit#heading=h.1r16hkyvt9hd).**
 
 ————————————————————————————
@@ -103,9 +101,7 @@ All homework assignments are due at 8:00am New York Time on the day of our class
 #### Homework Assignment:
 * TEST YOURSELF // Complete [Worksheet 2](https://docs.google.com/document/d/1Rt4JelWO78I9JVwkk9txHnSFes0Dmb-5BHVKCe6Mvyo/edit?usp=sharing).
 * WATCH // [Coding Train Videos 5.1-5.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about writing functions.
-* CREATE // Make a sketch that includes conditional statements and loops. 
-  * Feel free to base your sketch off of the examples we went through in class, but make sure you do something different to the example. 
-  * Use this as an opportunity to experiment with different functions.
+* CREATE // TBD
   * Consult the [reference page](https://p5js.org/reference/) for new ideas.
   * **Submit your sketches [here](https://docs.google.com/document/d/1Rt4JelWO78I9JVwkk9txHnSFes0Dmb-5BHVKCe6Mvyo/edit#heading=h.1r16hkyvt9hd).**
 
@@ -128,13 +124,13 @@ All homework assignments are due at 8:00am New York Time on the day of our class
 * Summary, preview, and homework assignment.
 
 #### Homework Assignment:
-* Add one piece of art or design work that inspires you to [this page](https://github.com/ellennickles/creative-coding-summer-21/wiki)! 
+* Add one piece of art or design work that inspires you TBD.
   * Be prepared to share something about it in class. 
   * Tell us what the project is about. Why do you like it? What role does technology play in this project? 
   * Do you imagine creating something inspired by this in the near future? 
   * **Note: the work you share should be different from what you have posted in the Concepts, Culture & Critique class.**
 * WATCH // [Coding Train Videos 7.1-7.2](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about arrays before the Wednesday class.
-* FILL OUT THE SURVEY // Please take five minutes to fill out this [midterm check-in survey](https://forms.gle/QMhX29KT5K9bEpQJ6).
+* FILL OUT THE SURVEY // Please take five minutes to fill out this midterm check-in survey.
 
 
 ### // Class 02 // July 27 // Object Literal & Arrays
@@ -152,10 +148,7 @@ All homework assignments are due at 8:00am New York Time on the day of our class
 #### Homework Assignment:
 * TEST YOURSELF // Complete [Worksheet 3](https://docs.google.com/document/d/1RYH6xY3nR4JIws1bo0zW2OhorVoPxiqGBePpvvQFCcU/edit?usp=sharing).
 * WATCH // [Coding Train Videos 6.1-6.4, 7.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about objects.
-* CREATE // Make a sketch that includes some of the following elements: 
-  * Reusable functions that take at least one parameter.
-  * Object literals.
-  * Arrays.
+* CREATE // TBD
   * **Submit your sketches [here](https://docs.google.com/document/d/1RYH6xY3nR4JIws1bo0zW2OhorVoPxiqGBePpvvQFCcU/edit#heading=h.g0onhebbxvxs).**
 
 ————————————————————————————
@@ -220,7 +213,7 @@ All homework assignments are due at 8:00am New York Time on the day of our class
   * Review previous coding concepts.
   * Introduce additional coding ideas.
 * Breakout Room:
-  * Work on your final projects with a resident being there to answer specific technical questions.
+  * Work on your final projects.
 
 #### Homework Assignment:
 * FINAL PROJECT // Finish your final project. Get ready to present your project (FOUR minutes max, SEVEN minutes total including feedback):
