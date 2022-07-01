@@ -1,5 +1,5 @@
 # Carrie's Section / Schedule & Homework
-<span style="color: green">**_This schedule is in-progress and subject to change._**<span style="color: green">
+##This schedule is in-progress and subject to change.##
 
 Class Meetings: Mon & Wed 10:30am - 12:30pm New York Time
 
