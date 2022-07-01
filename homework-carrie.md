@@ -32,7 +32,7 @@ All homework assignments are due at 8:00am New York Time on the day of our class
 * Animating your drawing in p5.
 * What are variables and why should we use them?
 
-### // Class 01 // July 12 // Introduction
+### // Class 01 // July 11 // Introduction
 [Slides](https://docs.google.com/presentation/d/1bOabhQZPJqxnZ1wRwKZHRhhmFoM6-KblXgFBEwlqyK8/edit?usp=sharing)
 
 #### In class:
@@ -47,7 +47,7 @@ All homework assignments are due at 8:00am New York Time on the day of our class
 * TEST YOURSELF // Complete [Worksheet 0](https://docs.google.com/document/d/1LrgtRE8Bivf0rcE6XpapoVU11YZ9wHuA4iTCWLYdOvQ/edit?usp=sharing) to test yourself.
 * WATCH // [Coding Train Videos 2.1-2.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 
-### // Class 02 // July 14 //Animation: Variables
+### // Class 02 // July 13 //Animation: Variables
 [Slides](https://docs.google.com/presentation/d/17YgYC0uraEGy-h3lh8HEXQG1tDPRMLOF84Eevho1-Uw/edit?usp=sharing)
 
 #### In class:
@@ -74,7 +74,7 @@ All homework assignments are due at 8:00am New York Time on the day of our class
 * Introducing conditional statements.
 * Make the computer do all the work using loops and nested loops.
 
-### // Class 01 // July 19 // Homework Sharing & Conditional Statements
+### // Class 01 // July 18 // Homework Sharing & Conditional Statements
 [Slides](https://docs.google.com/presentation/d/139NFVQlZPVHn5DuvDDH-hF-4bbo999hcVx5hIJHedJ4/edit?usp=sharing)
 
 #### In class:
@@ -89,7 +89,7 @@ All homework assignments are due at 8:00am New York Time on the day of our class
 * Rewatch the videos in [Coding Train Videos 3.1-4.2](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) that you didn't quite understand.
 * Play with the example sketches from today's class.
 
-### // Class 02 // July 21 // Loops and Nested Loops
+### // Class 02 // July 20 // Loops and Nested Loops
 [Slides](https://docs.google.com/presentation/d/1-GGA5kOeXLDiXvv5bMdBdcL8Ia1gZdwhFK6IZ1RJe40/edit?usp=sharing)
 
 #### In class:
@@ -118,7 +118,7 @@ All homework assignments are due at 8:00am New York Time on the day of our class
 * Use object literal to organize code.
 * What are arrays and what can we do with them?
 
-### // Class 01 // July 26 // Homework Sharing and Functions
+### // Class 01 // July 25 // Homework Sharing and Functions
 [Slides](https://docs.google.com/presentation/d/16IJ2uHx0C4nU0_foVfB14XYWoejWTZRSH5iPr6BLw8k/edit?usp=sharing)
 
 #### In class:
@@ -137,7 +137,7 @@ All homework assignments are due at 8:00am New York Time on the day of our class
 * FILL OUT THE SURVEY // Please take five minutes to fill out this [midterm check-in survey](https://forms.gle/QMhX29KT5K9bEpQJ6).
 
 
-### // Class 02 // July 28 // Object Literal & Arrays
+### // Class 02 // July 27 // Object Literal & Arrays
 [Slides](https://docs.google.com/presentation/d/1-1e5eoW9J3g9zBT0XUBQ3BBboghPVkhXoojqn9G07LE/edit?usp=sharing)
 
 #### In class:
@@ -166,7 +166,7 @@ All homework assignments are due at 8:00am New York Time on the day of our class
 * Create our own objects and object behaviors using object class.
 * Working with media.
 
-### // Class 01 // August 2 // Homework Sharing and Object Class
+### // Class 01 // August 1 // Homework Sharing and Object Class
 [Slides](https://docs.google.com/presentation/d/1yOJ-17y3bhvzjW8HIV4Y8Y8kLXfswWvmIOm6cwlMtRM/edit?usp=sharing)
 
 #### In class:
@@ -188,7 +188,7 @@ All homework assignments are due at 8:00am New York Time on the day of our class
   * Working with sound files: [Coding Train Videos 17.1-17.4](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
   * Microphone input: [Coding Train Videos 17.8](https://www.youtube.com/watch?v=q2IDNkUws-A&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW&index=9)
 
-### // Class 02 // August 4 // Image, Media, & Sound
+### // Class 02 // August 3 // Image, Media, & Sound
 [Slides](https://docs.google.com/presentation/d/1xeUYm3-naeuD1Jka9UDQKSRR3UWrnaOhhBxEHr3L6-A/edit?usp=sharing)
 
 #### In class:
@@ -212,7 +212,7 @@ All homework assignments are due at 8:00am New York Time on the day of our class
 **Key ideas:**
 * Final project!
 
-### // Class 01 // August 9 // Review Key Concepts or Work on Final Project
+### // Class 01 // August 8 // Review Key Concepts or Work on Final Project
 [Slides](https://docs.google.com/presentation/d/1XvJP-7f_j_CxiHXz2WPsZDymD9AX0sVuXyahEYUSV8Q/edit?usp=sharing)
 
 #### In class:
@@ -230,7 +230,7 @@ All homework assignments are due at 8:00am New York Time on the day of our class
   * What was your goal? Did it work out as planned? 
   * If you are to continue your project, what are some possibilities?
 
-### // Class 02 // August 11 // Final Project Presentations
+### // Class 02 // August 10 // Final Project Presentations
 [Slides](https://docs.google.com/presentation/d/1WUDViyic0Oen0d3hYw9GXibSP04Xrqa9hC--nyi36F0/edit?usp=sharing)
 
 #### In class:
