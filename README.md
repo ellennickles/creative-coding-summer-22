@@ -55,7 +55,7 @@ You are encouraged to reach out to the instructors outside of class to ask quest
 ### Weekly Assignments 
 * Before class, watch the video tutorials about the fundamental coding concepts to practice together when we meet.
 * There are also weekly programming assignments that are relevant to the material from previous classes. Each week will include a series of practice questions and one open-ended exercise to apply the concepts that we practice in class. The assignments are required, and you should be prepared to show and talk about them in class. 
-* Submit your weekly programming assignments by the following deadlines by 8:00am ET the day of our class.
+* Submit your weekly programming assignments by 8:00am ET the day of our class.
 
 ### Final Project
 * The course will culminate with the completion of a final project to share in class. 
