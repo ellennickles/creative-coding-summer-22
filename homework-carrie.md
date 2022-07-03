@@ -47,7 +47,7 @@ All homework assignments are due at 8:00am New York Time on the day of our class
 
 #### Homework Assignment:
 * WATCH // [Coding Train Videos 2.1-2.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
-* TEST YOURSELF // Question 1 and 2 of [Worksheet 1](https://docs.google.com/document/d/1N-B1oOoPMvE-zTBLyKVPK2PScxa8SAL8-BjIkHOPKlM/edit?usp=sharing) to test yourself.
+* TEST YOURSELF // Question 1 and 2 of [Worksheet 1](https://docs.google.com/document/d/1N-B1oOoPMvE-zTBLyKVPK2PScxa8SAL8-BjIkHOPKlM/edit?usp=sharing).
 
 ### // Class 02 // July 13 //Animation: Variables
 [Slides](https://docs.google.com/presentation/d/17YgYC0uraEGy-h3lh8HEXQG1tDPRMLOF84Eevho1-Uw/edit?usp=sharing)
