@@ -64,7 +64,7 @@ All homework assignments are due at 8:00am New York Time on the day of our class
 * WATCH // [Coding Train Videos 3.1-4.2](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about conditionals and repeat loops for next week's classes.
 * CREATE // TBD
   * Consult the [reference page](https://p5js.org/reference/) for new ideas.
-  * **Submit your sketches [here](https://docs.google.com/document/d/1N-B1oOoPMvE-zTBLyKVPK2PScxa8SAL8-BjIkHOPKlM/edit?usp=sharing).**
+  * **Submit your sketches [here](https://docs.google.com/document/d/1N-B1oOoPMvE-zTBLyKVPK2PScxa8SAL8-BjIkHOPKlM/edit#heading=h.1r16hkyvt9hd).**
 
 ————————————————————————————
 ## Week 02: Interaction and Repetition
