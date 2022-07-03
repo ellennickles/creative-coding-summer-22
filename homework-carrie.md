@@ -7,12 +7,12 @@ All homework assignments are due at 8:00am New York Time on the day of our class
 
 [Class Zoom Link](https://nyu.zoom.us/j/98856959366) / [Residents' Office Hours](https://www.notion.so/imalowres/5f28a05d4b224edc973329160cc1f931?v=3892832ed7724792bd52a5415131f1a8) / [Carrie's Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UURGcGNKNkVCLUNlfGRlZmF1bHR8ZmFlMTM5OTEzZDAwMTJmNWU5ZDdkNzMwMjg2N2RiYzU) / How to ask code-related questions: [examples](https://github.com/ellennickles/creative-coding-summer-21/blob/main/example-code-questions.md)
 
-* Week 00: [Drawing](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-00-drawing-in-p5js)
-* Week 01: [Introduction and Animation](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-01-introduction-and-animation)
-* Week 02: [Interaction and Repetition](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-02-interaction-and-repetition)
-* Week 03: [Organization](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-03-organization)
-* Week 04: [More Repetition + Media](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-04-more-repetition--media)
-* Week 05: [Final Project](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-05-final-project)
+* Week 00: [Drawing](https://github.com/ellennickles/creative-coding-summer-22/blob/main/homework-carrie.md#week-00-drawing-in-p5js)
+* Week 01: [Introduction and Animation](https://github.com/ellennickles/creative-coding-summer-22/blob/main/homework-carrie.md#week-01-introduction-and-animation)
+* Week 02: [Interaction and Repetition](https://github.com/ellennickles/creative-coding-summer-22/blob/main/homework-carrie.md#week-02-interaction-and-repetition)
+* Week 03: [Organization](https://github.com/ellennickles/creative-coding-summer-22/blob/main/homework-carrie.md#week-03-organization)
+* Week 04: [More Repetition + Media](https://github.com/ellennickles/creative-coding-summer-22/blob/main/homework-carrie.md#week-04-more-repetition--media)
+* Week 05: [Final Project](https://github.com/ellennickles/creative-coding-summer-22/blob/main/homework-carrie.md#week-05-final-project)
 
 ————————————————————————————
 ## Week 00: Drawing in p5.js
