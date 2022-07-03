@@ -5,7 +5,7 @@ Class Meetings: Mon & Wed 10:30am - 12:30pm New York Time
 
 All homework assignments are due at 8:00am New York Time on the day of our class.
 
-[Class Zoom Link](https://nyu.zoom.us/j/98856959366) / [Residents' Office Hours](https://www.notion.so/imalowres/5f28a05d4b224edc973329160cc1f931?v=3892832ed7724792bd52a5415131f1a8) / [Carrie's Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UURGcGNKNkVCLUNlfGRlZmF1bHR8ZmFlMTM5OTEzZDAwMTJmNWU5ZDdkNzMwMjg2N2RiYzU) / How to ask code-related questions: [examples](https://github.com/ellennickles/creative-coding-summer-21/blob/main/example-code-questions.md)
+[Class Zoom Link](https://nyu.zoom.us/j/98856959366) / [Residents' Office Hours](https://www.notion.so/imalowres/5f28a05d4b224edc973329160cc1f931?v=3892832ed7724792bd52a5415131f1a8) / [Carrie's Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UURGcGNKNkVCLUNlfGRlZmF1bHR8ZmFlMTM5OTEzZDAwMTJmNWU5ZDdkNzMwMjg2N2RiYzU) / [Miro Board](https://miro.com/welcomeonboard/dzdEczlhZ0FnVnBac25RTjNLMGRpNjk1dk9UV3hhdXRLYmlnQzVDcjNpY3RxNmtLemNYU3c3NktpRm5BTEpKTXwzMDc0NDU3MzUyODU4OTc3ODA1?share_link_id=854852500726) / How to ask code-related questions: [examples](https://github.com/ellennickles/creative-coding-summer-21/blob/main/example-code-questions.md)
 
 * Week 00: [Drawing](https://github.com/ellennickles/creative-coding-summer-22/blob/main/homework-carrie.md#week-00-drawing-in-p5js)
 * Week 01: [Introduction and Animation](https://github.com/ellennickles/creative-coding-summer-22/blob/main/homework-carrie.md#week-01-introduction-and-animation)
