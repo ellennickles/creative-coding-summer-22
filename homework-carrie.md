@@ -47,7 +47,7 @@ All homework assignments are due at 8:00am New York Time on the day of our class
 
 #### Homework Assignment:
 * WATCH // [Coding Train Videos 2.1-2.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
-* TEST YOURSELF // Complete [Worksheet 1](https://docs.google.com/document/d/1N-B1oOoPMvE-zTBLyKVPK2PScxa8SAL8-BjIkHOPKlM/edit?usp=sharing) to test yourself.
+* TEST YOURSELF // Question 1 and 2 of [Worksheet 1](https://docs.google.com/document/d/1N-B1oOoPMvE-zTBLyKVPK2PScxa8SAL8-BjIkHOPKlM/edit?usp=sharing) to test yourself.
 
 ### // Class 02 // July 13 //Animation: Variables
 [Slides](https://docs.google.com/presentation/d/17YgYC0uraEGy-h3lh8HEXQG1tDPRMLOF84Eevho1-Uw/edit?usp=sharing)
@@ -60,10 +60,12 @@ All homework assignments are due at 8:00am New York Time on the day of our class
 * Summary & homework assignment.
 
 #### Homework Assignment:
-* TEST YOURSELF // Complete [Worksheet 1](https://docs.google.com/document/d/1N-B1oOoPMvE-zTBLyKVPK2PScxa8SAL8-BjIkHOPKlM/edit?usp=sharing).
 * WATCH // [Coding Train Videos 3.1-4.2](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about conditionals and repeat loops for next week's classes.
-* CREATE // TBD
-  * Consult the [reference page](https://p5js.org/reference/) for new ideas.
+* TEST YOURSELF // Question 3-5 of [Worksheet 1](https://docs.google.com/document/d/1N-B1oOoPMvE-zTBLyKVPK2PScxa8SAL8-BjIkHOPKlM/edit?usp=sharing).
+* CREATIVE ASSIGNMENT #1 // Choose a pair of words with opposite meanings, such as “order” and “chaos,” “ascend” and “descend,” “empty” and “full.” Create one sketch to represent the pair of your choice.
+  * Consider illustrating the opposite meanings through composition of elements, selection of colors, or any time-based change or movement.
+  * Think about what you can do to make your audience sense or think of the two words without having to spell them out. 
+  * Consult the p5 [reference page](https://p5js.org/reference/).
   * **Submit your sketches [here](https://docs.google.com/document/d/1N-B1oOoPMvE-zTBLyKVPK2PScxa8SAL8-BjIkHOPKlM/edit#heading=h.1r16hkyvt9hd).**
 
 ————————————————————————————
