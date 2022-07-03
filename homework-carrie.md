@@ -35,7 +35,7 @@ All homework assignments are due at 8:00am New York Time on the day of our class
 * What are variables and why should we use them?
 
 ### // Class 01 // July 11 // Introduction
-[Slides](https://docs.google.com/presentation/d/1bOabhQZPJqxnZ1wRwKZHRhhmFoM6-KblXgFBEwlqyK8/edit?usp=sharing)
+[Slides](https://docs.google.com/presentation/d/1IScET77tKjx1oJioD0RvWydB7akxD-xijqvYAkBFCAU/edit?usp=sharing)
 
 #### In class:
 * Welcome and self introductions.
@@ -46,8 +46,8 @@ All homework assignments are due at 8:00am New York Time on the day of our class
 * Summary & homework assignment.
 
 #### Homework Assignment:
-* TEST YOURSELF // Complete [Worksheet 0](https://docs.google.com/document/d/1LrgtRE8Bivf0rcE6XpapoVU11YZ9wHuA4iTCWLYdOvQ/edit?usp=sharing) to test yourself.
 * WATCH // [Coding Train Videos 2.1-2.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+* TEST YOURSELF // Complete [Worksheet 0](https://docs.google.com/document/d/1LrgtRE8Bivf0rcE6XpapoVU11YZ9wHuA4iTCWLYdOvQ/edit?usp=sharing) to test yourself.
 
 ### // Class 02 // July 13 //Animation: Variables
 [Slides](https://docs.google.com/presentation/d/17YgYC0uraEGy-h3lh8HEXQG1tDPRMLOF84Eevho1-Uw/edit?usp=sharing)
