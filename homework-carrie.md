@@ -82,7 +82,7 @@ All homework assignments are due at 8:00am New York Time on the day of our class
 [Slides](https://docs.google.com/presentation/d/1q7U0uKmsD_VBhx4MQZ8a1Z1cyHSMt_faXbyvkx2QJVw/edit?usp=sharing)
 
 #### In class:
-* Present your animation sketches.
+* Present Creative Assignment #1.
 * More about animation.
 * Introduction to conditional statements.
 * **Demo:** using the bouncing ball logic to bounce something else.
