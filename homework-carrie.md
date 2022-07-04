@@ -142,7 +142,7 @@ All homework assignments are due at 8:00am New York Time on the day of our class
 
 
 ### // Class 02 // July 27 // Object Literal & Arrays
-[Slides](https://docs.google.com/presentation/d/1-1e5eoW9J3g9zBT0XUBQ3BBboghPVkhXoojqn9G07LE/edit?usp=sharing)
+[Slides](https://docs.google.com/presentation/d/1wsCsqhu4ihkIyEQlqPF7a0lCVerjvXREyioAkCfLqMk/edit?usp=sharing)
 
 #### In class:
 * Talk about survey results.
@@ -154,10 +154,10 @@ All homework assignments are due at 8:00am New York Time on the day of our class
 * Summary and homework assignment.
 
 #### Homework Assignment:
-* TEST YOURSELF // Complete [Worksheet 3](https://docs.google.com/document/d/1RYH6xY3nR4JIws1bo0zW2OhorVoPxiqGBePpvvQFCcU/edit?usp=sharing).
+* TEST YOURSELF // [Worksheet 3](https://docs.google.com/document/d/1VyIhL6Qu1eTGh6WDtUUoGwv8S0dfp3OSGoMixABzjng/edit?usp=sharing).
 * WATCH // [Coding Train Videos 6.1-6.4, 7.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about objects.
-* CREATE // TBD
-  * **Submit your sketches [here](https://docs.google.com/document/d/1RYH6xY3nR4JIws1bo0zW2OhorVoPxiqGBePpvvQFCcU/edit#heading=h.g0onhebbxvxs).**
+* CREATIVE ASSIGNMENT #3 // [Time](https://docs.google.com/document/d/1VyIhL6Qu1eTGh6WDtUUoGwv8S0dfp3OSGoMixABzjng/edit#heading=h.g0onhebbxvxs)
+  * **Submit your sketches [here](https://docs.google.com/document/d/1VyIhL6Qu1eTGh6WDtUUoGwv8S0dfp3OSGoMixABzjng/edit#heading=h.g0onhebbxvxs).**
 
 ————————————————————————————
 ## Week 04: More Repetition + Media
