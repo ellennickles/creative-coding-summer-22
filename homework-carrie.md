@@ -123,22 +123,22 @@ All homework assignments are due at 8:00am New York Time on the day of our class
 * What are arrays and what can we do with them?
 
 ### // Class 01 // July 25 // Homework Sharing and Functions
-[Slides](https://docs.google.com/presentation/d/16IJ2uHx0C4nU0_foVfB14XYWoejWTZRSH5iPr6BLw8k/edit?usp=sharing)
+[Slides](https://docs.google.com/document/d/15Dd9mtdUI-UbF02Etvbs1KInqMAEYTQ6xIkbooZrvLk/edit?usp=sharing)
 
 #### In class:
-* Share your homework sketches.
+* Share creative assignment #2.
 * Writing our own functions.
 * **Group Work:** use functions and loops to create patterns.
 * Summary, preview, and homework assignment.
 
 #### Homework Assignment:
-* Add one piece of art or design work that inspires you TBD.
+* Add one piece of art or design work that inspires you on the [wiki page](https://github.com/ellennickles/creative-coding-summer-22/wiki).
   * Be prepared to share something about it in class. 
   * Tell us what the project is about. Why do you like it? What role does technology play in this project? 
   * Do you imagine creating something inspired by this in the near future? 
   * **Note: the work you share should be different from what you have posted in the Concepts, Culture & Critique class.**
 * WATCH // [Coding Train Videos 7.1-7.2](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about arrays before the Wednesday class.
-* FILL OUT THE SURVEY // Please take five minutes to fill out this midterm check-in survey.
+* FILL OUT THE SURVEY // Please take five minutes to fill out [this midterm check-in survey](https://forms.gle/J5QFkGDMwTMpnVNz7).
 
 
 ### // Class 02 // July 27 // Object Literal & Arrays
