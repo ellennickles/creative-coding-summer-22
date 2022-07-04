@@ -94,7 +94,7 @@ All homework assignments are due at 8:00am New York Time on the day of our class
 * Play with the example sketches from today's class.
 
 ### // Class 02 // July 20 // Loops and Nested Loops
-[Slides](https://docs.google.com/presentation/d/1-GGA5kOeXLDiXvv5bMdBdcL8Ia1gZdwhFK6IZ1RJe40/edit?usp=sharing)
+[Slides](https://docs.google.com/presentation/d/1xt-894dMQqYN_Mq7GpZccb-K_NtVPXG83OjhBeCg33E/edit?usp=sharing)
 
 #### In class:
 * Checking in: how do you feel about what we've learned so far?
