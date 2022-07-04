@@ -221,7 +221,7 @@ All homework assignments are due at 8:00am New York Time on the day of our class
 * Final project!
 
 ### // Class 01 // August 8 // Review Key Concepts or Work on Final Project
-[Slides](https://docs.google.com/presentation/d/1XvJP-7f_j_CxiHXz2WPsZDymD9AX0sVuXyahEYUSV8Q/edit?usp=sharing)
+[Slides](https://docs.google.com/presentation/d/1dwXS8SFYDLN5QubddXm30qp8N1sjPINPv66bwXcw2UM/edit?usp=sharing)
 
 #### In class:
 * Main Room:
