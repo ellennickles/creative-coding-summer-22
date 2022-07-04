@@ -106,11 +106,12 @@ All homework assignments are due at 8:00am New York Time on the day of our class
 * Summary, preview, and homework assignment.
 
 #### Homework Assignment:
-* TEST YOURSELF // [Worksheet 2](https://docs.google.com/document/d/1Rt4JelWO78I9JVwkk9txHnSFes0Dmb-5BHVKCe6Mvyo/edit?usp=sharing).
+* TEST YOURSELF // [Worksheet 2](https://docs.google.com/document/d/1DYPSe9w36jsCf1gI60exXX2md2c2yhB-bSqQ61RGNko/edit?usp=sharing).
 * WATCH // [Coding Train Videos 5.1-5.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about writing functions.
-* CREATIVE ASSIGNMENT #2 // TBD
-  * Consult the [reference page](https://p5js.org/reference/) for new ideas.
-  * **Submit your sketches [here](https://docs.google.com/document/d/1Rt4JelWO78I9JVwkk9txHnSFes0Dmb-5BHVKCe6Mvyo/edit#heading=h.1r16hkyvt9hd).**
+* CREATIVE ASSIGNMENT #2 // [Patterns](https://docs.google.com/document/d/1DYPSe9w36jsCf1gI60exXX2md2c2yhB-bSqQ61RGNko/edit#heading=h.1r16hkyvt9hd)
+  * We humans have a tendency to look for patterns everywhere. We see patterns in nature and on the urban streets of New York and Shanghai. We rely on patterns we’ve detected in life to make predictions and acquire knowledge. Computation is all about patterns.
+  * Observe, both outside (your surroundings) and inside (your history of thoughts and feelings), make a sketch about a specific pattern you find. Get creative. Think about how you can tell the unique story of the pattern using code.
+  * **Submit your sketches [here](https://docs.google.com/document/d/1DYPSe9w36jsCf1gI60exXX2md2c2yhB-bSqQ61RGNko/edit#heading=h.1r16hkyvt9hd).**
 
 ————————————————————————————
 ## Week 03: Organization
