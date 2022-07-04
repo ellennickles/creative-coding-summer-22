@@ -157,14 +157,14 @@ All homework assignments are due at 8:00am New York Time on the day of our class
 * TEST YOURSELF // [Worksheet 3](https://docs.google.com/document/d/1VyIhL6Qu1eTGh6WDtUUoGwv8S0dfp3OSGoMixABzjng/edit?usp=sharing).
 * WATCH // [Coding Train Videos 6.1-6.4, 7.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about objects.
 * CREATIVE ASSIGNMENT #3 // [Time](https://docs.google.com/document/d/1VyIhL6Qu1eTGh6WDtUUoGwv8S0dfp3OSGoMixABzjng/edit#heading=h.g0onhebbxvxs)
-  * Create a sketch to represent “time.” Think about what quality of time you would like to portray. Below are a few ideas for you to consider:
-   * The passing of time through change, motion, or accumulation of elements.
-   * The relativity of time.
-   * Time twisted.
-   * Capturing time.
-   * The stillness of time.
-   * …
-  * **Submit your sketches [here](https://docs.google.com/document/d/1VyIhL6Qu1eTGh6WDtUUoGwv8S0dfp3OSGoMixABzjng/edit#heading=h.g0onhebbxvxs).**
+ * Create a sketch to represent “time.” Think about what quality of time you would like to portray. Below are a few ideas for you to consider:
+  * The passing of time through change, motion, or accumulation of elements.
+  * The relativity of time.
+  * Time twisted.
+  * Capturing time.
+  * The stillness of time.
+  * …
+ * **Submit your sketches [here](https://docs.google.com/document/d/1VyIhL6Qu1eTGh6WDtUUoGwv8S0dfp3OSGoMixABzjng/edit#heading=h.g0onhebbxvxs).**
 
 ————————————————————————————
 ## Week 04: More Repetition + Media
