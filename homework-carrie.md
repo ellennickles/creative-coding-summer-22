@@ -175,7 +175,7 @@ All homework assignments are due at 8:00am New York Time on the day of our class
 * Working with media.
 
 ### // Class 01 // August 1 // Homework Sharing and Object Class
-[Slides](https://docs.google.com/presentation/d/1yOJ-17y3bhvzjW8HIV4Y8Y8kLXfswWvmIOm6cwlMtRM/edit?usp=sharing)
+[Slides](https://docs.google.com/presentation/d/1w980VcsW4VuW2Xx5slZt1RLp763nFRvvyUS5JTdAkRc/edit?usp=sharing)
 
 #### In class:
 * Talk about homework sketches from last week.
@@ -189,7 +189,7 @@ All homework assignments are due at 8:00am New York Time on the day of our class
 #### Homework Assignment:
 * FINAL PROJECT // Think about what you want to make for your final project. Improve upon one of your previous sketches or create something new.
   * Decide what you want to do for your final.
-  * Add ONE slide to [this slidedeck](https://docs.google.com/presentation/d/1WUDViyic0Oen0d3hYw9GXibSP04Xrqa9hC--nyi36F0/edit?usp=sharing).
+  * Add ONE slide to [this slidedeck](https://docs.google.com/presentation/d/1agBWMzvv9sWjkC2q4E0NqXKx_e3Kec04Yl37A1EeYPg/edit?usp=sharing).
 
 * WATCH (Optional) // 
   * Bring in your webcam: [Coding Train Videos 11.1](https://www.youtube.com/watch?v=bkGf4fEHKak&list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig&index=1)
@@ -211,7 +211,7 @@ All homework assignments are due at 8:00am New York Time on the day of our class
 * TEST YOURSELF // Complete [Worksheet 4](https://docs.google.com/document/d/1T52tOGSM_YbD9--aineC7EK8Z7lYpuIVKwyk9Soh4QI/edit?usp=sharing).
 * FINAL PROJECT // Work on your final project. Start early. Use the help sessions and open office hours this Friday to ask technical questions! 
   * DUE ON MONDAY: Paste a link to your work in progress [here](https://docs.google.com/document/d/1T52tOGSM_YbD9--aineC7EK8Z7lYpuIVKwyk9Soh4QI/edit#heading=h.g0onhebbxvxs).
-  * DUE NEXT WEDNESDAY: **Add your presentation slides (THREE slides max) to [this slide deck](https://docs.google.com/presentation/d/1pTG8_CRvE6BxlDi0YswiSpOipH8sl0Yggq4yRWqyuGY/edit?usp=sharing).**
+  * DUE NEXT WEDNESDAY: **Add your presentation slides (THREE slides max) to [this slide deck](https://docs.google.com/presentation/d/1Lvl_cFYEBUfgXnOxCCV3YBQdV1Cb5XrcdIPa_p6DT1w/edit?usp=sharing).**
 
 ————————————————————————————
 ## Week 05: Final Project
@@ -232,14 +232,14 @@ All homework assignments are due at 8:00am New York Time on the day of our class
 
 #### Homework Assignment:
 * FINAL PROJECT // Finish your final project. Get ready to present your project (FOUR minutes max, SEVEN minutes total including feedback):
-  * **Add your presentation slides (THREE slides max) to [this slide deck](https://docs.google.com/presentation/d/1pTG8_CRvE6BxlDi0YswiSpOipH8sl0Yggq4yRWqyuGY/edit?usp=sharing).**
+  * **Add your presentation slides (THREE slides max) to [this slide deck](https://docs.google.com/presentation/d/1Lvl_cFYEBUfgXnOxCCV3YBQdV1Cb5XrcdIPa_p6DT1w/edit?usp=sharing).**
   * When you present, show us your final result, and walk us through your code. It is important that you explain what you have done in your code to achieve your result.
   * If you have any inspirations, show your inspirations.
   * What was your goal? Did it work out as planned? 
   * If you are to continue your project, what are some possibilities?
 
 ### // Class 02 // August 10 // Final Project Presentations
-[Slides](https://docs.google.com/presentation/d/1WUDViyic0Oen0d3hYw9GXibSP04Xrqa9hC--nyi36F0/edit?usp=sharing)
+[Slides](https://docs.google.com/presentation/d/1Lvl_cFYEBUfgXnOxCCV3YBQdV1Cb5XrcdIPa_p6DT1w/edit?usp=sharing)
 
 #### In class:
 * Welcome and general notes.
