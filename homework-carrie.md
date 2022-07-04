@@ -197,7 +197,7 @@ All homework assignments are due at 8:00am New York Time on the day of our class
   * Microphone input: [Coding Train Videos 17.8](https://www.youtube.com/watch?v=q2IDNkUws-A&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW&index=9)
 
 ### // Class 02 // August 3 // Image, Media, & Sound
-[Slides](https://docs.google.com/presentation/d/1xeUYm3-naeuD1Jka9UDQKSRR3UWrnaOhhBxEHr3L6-A/edit?usp=sharing)
+[Slides](https://docs.google.com/presentation/d/10I4TsoTyKrDchwTjyd4LqI_VR12M-9ZY4cyZZQc3Xng/edit?usp=sharing)
 
 #### In class:
 * **Demo:** working with sound files.
@@ -208,9 +208,9 @@ All homework assignments are due at 8:00am New York Time on the day of our class
 * Summary, and homework assignment.
 
 #### Homework Assignment:
-* TEST YOURSELF // Complete [Worksheet 4](https://docs.google.com/document/d/1T52tOGSM_YbD9--aineC7EK8Z7lYpuIVKwyk9Soh4QI/edit?usp=sharing).
+* TEST YOURSELF // [Worksheet 4](https://docs.google.com/document/d/1b-pFIj2UFKWhY00M1eQZ1In6E-XQWxSs_uqErPhO7s4/edit?usp=sharing).
 * FINAL PROJECT // Work on your final project. Start early. Use the help sessions and open office hours this Friday to ask technical questions! 
-  * DUE ON MONDAY: Paste a link to your work in progress [here](https://docs.google.com/document/d/1T52tOGSM_YbD9--aineC7EK8Z7lYpuIVKwyk9Soh4QI/edit#heading=h.g0onhebbxvxs).
+  * DUE ON MONDAY: Paste a link to your work in progress [here](https://docs.google.com/document/d/1b-pFIj2UFKWhY00M1eQZ1In6E-XQWxSs_uqErPhO7s4/edit#heading=h.g0onhebbxvxs).
   * DUE NEXT WEDNESDAY: **Add your presentation slides (THREE slides max) to [this slide deck](https://docs.google.com/presentation/d/1Lvl_cFYEBUfgXnOxCCV3YBQdV1Cb5XrcdIPa_p6DT1w/edit?usp=sharing).**
 
 ————————————————————————————
