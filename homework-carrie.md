@@ -79,7 +79,7 @@ All homework assignments are due at 8:00am New York Time on the day of our class
 * Make the computer do all the work using loops and nested loops.
 
 ### // Class 01 // July 18 // Homework Sharing & Conditional Statements
-[Slides](https://docs.google.com/presentation/d/139NFVQlZPVHn5DuvDDH-hF-4bbo999hcVx5hIJHedJ4/edit?usp=sharing)
+[Slides](https://docs.google.com/presentation/d/1q7U0uKmsD_VBhx4MQZ8a1Z1cyHSMt_faXbyvkx2QJVw/edit?usp=sharing)
 
 #### In class:
 * Present your animation sketches.
@@ -105,9 +105,9 @@ All homework assignments are due at 8:00am New York Time on the day of our class
 * Summary, preview, and homework assignment.
 
 #### Homework Assignment:
-* TEST YOURSELF // Complete [Worksheet 2](https://docs.google.com/document/d/1Rt4JelWO78I9JVwkk9txHnSFes0Dmb-5BHVKCe6Mvyo/edit?usp=sharing).
+* TEST YOURSELF // [Worksheet 2](https://docs.google.com/document/d/1Rt4JelWO78I9JVwkk9txHnSFes0Dmb-5BHVKCe6Mvyo/edit?usp=sharing).
 * WATCH // [Coding Train Videos 5.1-5.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about writing functions.
-* CREATE // TBD
+* CREATIVE ASSIGNMENT #2 // TBD
   * Consult the [reference page](https://p5js.org/reference/) for new ideas.
   * **Submit your sketches [here](https://docs.google.com/document/d/1Rt4JelWO78I9JVwkk9txHnSFes0Dmb-5BHVKCe6Mvyo/edit#heading=h.1r16hkyvt9hd).**
 
