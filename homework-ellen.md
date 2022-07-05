@@ -40,11 +40,15 @@ A big part of learning in the IMA Low Res program is learning from each other. S
 
 ## Pre-Work Assignment and Drawing in p5
 
-**To be completed before Sat Jul 9:**
+**Please complete before Sat Jul 9:**
 - WATCH • [Coding Train videos 1.1-1.6](https://thecodingtrain.com/beginners/p5js/) ~1hr 20min
 - CREATE
     - Log in to the [p5 web editor](https://editor.p5js.org/).
     - Create a “self-portrait". Think about what a self-portrait means to you. Is it a depiction of what you look like? A bridge between your private and public regard? Or a collection of your lived experiences? 
     - Consult the [p5 Reference](https://p5js.org/reference/). Add comments to your code to describe the different parts.
     - Submit your "self portrait" sketch [Pre-Work Submissions](https://docs.google.com/document/d/1a8PWe7tYTqlKARpk3FE0J8gkbMGzK6skOoMTXc8hTsQ/edit#heading=h.7hcg69t05zcn) document. We'll look at them in the first class!
+
+**Please complete before Mon Jul 11 (our first day of class):**
+- Sign up for a free [Miro account](https://miro.com) (our interactive whiteboard).
+- Have a place online to post your homework with the ability for me to provide support and feedback comments. This could be a website/blog, Notion page, or even a Google document. If you’re not sure what to use, please reach out to me so I can help.
 
