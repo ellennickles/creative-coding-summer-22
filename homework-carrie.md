@@ -25,7 +25,7 @@ All homework assignments are due at 8:00am New York Time on the day of our class
 * Log in to the [p5 web editor](https://editor.p5js.org/).
 * Create a “self-portrait”. Think about what a self-portrait means to you. Is it a depiction of what you look like? A bridge between your private and public regard? Or a collection of your lived experiences?  
 * Consult the [p5.js Reference](https://p5js.org/reference/). Add comments to your code to describe the different parts.
-* **Submit your "self portrait" sketch [here](https://docs.google.com/document/d/1a8PWe7tYTqlKARpk3FE0J8gkbMGzK6skOoMTXc8hTsQ/edit?usp=sharing). We'll look at them in the first class!**
+* **Submit your "self portrait" sketch [here](https://docs.google.com/document/d/1GPHaEj6L248FUTG789Mc7G95FAdmmJfHeAVldJb5jbg/edit?usp=sharing). We'll look at them in the first class!**
 
 ————————————————————————————
 ## Week 01: Introduction and Animation
