@@ -12,7 +12,7 @@
 ## Contents
 - [Weekly Assignment Guidelines](https://github.com/ellennickles/creative-coding-summer-22/blob/main/homework-ellen.md#homework-guidelines)
 - [Pre-Work Assignment and Drawing in p5](https://github.com/ellennickles/creative-coding-summer-22/blob/main/homework-ellen.md#pre-work-assignment-and-drawing-in-p5)
-- [Week 1 • Introduction and Animation]() 
+- [Week 1 • Introduction and Animation](https://github.com/ellennickles/creative-coding-summer-22/blob/main/homework-ellen.md#week-1--introduction-and-animation) 
 - Week 2 • Interaction and Repetition
 - Week 3 • Organization
 - Week 4 • More Repetition and Media
