@@ -12,7 +12,7 @@
 ## Contents
 - [Weekly Assignment Guidelines](https://github.com/ellennickles/creative-coding-summer-22/blob/main/homework-ellen.md#homework-guidelines)
 - [Pre-Work Assignment and Drawing in p5](https://github.com/ellennickles/creative-coding-summer-22/blob/main/homework-ellen.md#pre-work-assignment-and-drawing-in-p5)
-- Week 1 • Introduction and Animation 
+- [Week 1 • Introduction and Animation]() 
 - Week 2 • Interaction and Repetition
 - Week 3 • Organization
 - Week 4 • More Repetition and Media
@@ -52,3 +52,41 @@ A big part of learning in the IMA Low Res program is learning from each other. S
 - Sign up for a free [Miro account](https://miro.com) (our interactive whiteboard).
 - Have a place online to post your homework with the ability for me to provide support and feedback comments. This could be a website/blog, Notion page, or even a Google document. If you’re not sure what to use, please reach out to me for help.
 
+## Week 1 • Introduction and Animation
+
+**Key questions:**
+- What is creative coding and what can we do with it?
+- What is p5?
+- What are p5 functions?
+- What are variables and how can we use them?
+
+### **Class 1 • Mon July 11 • Introduction**
+
+**In class:**
+- Welcome!
+- Communicating in Zoom
+- Why creative coding?
+- What is p5?
+- p5 functions
+- Share our pre-work assignments
+- Creative coding examples
+- Course overview
+- Tips for learning to code
+
+**Resources and examples:** 
+- HTML, CSS, JavaScript / p5.js [Website Demos](https://ellennickles.github.io/demos/) | [Code](https://github.com/ellennickles/demos)
+- Drawing curves
+    - [p5 Learn: Arcs and Curves](https://p5js.org/learn/curves.html)
+    - Allison Parrish's [`quadraticVertex()`](https://editor.p5js.org/allison.parrish/sketches/HysPl9FT7) and [`bezier()`](https://editor.p5js.org/allison.parrish/sketches/H1QQ3Nt67) demos 
+    - Programming Design Systems [curve animations](https://programmingdesignsystems.com/shape/custom-shapes/index.html#custom-shapes-pANLh0l) (scroll down) 
+- Rotating and drawing custom shapes
+    - [Coding Train Videos 9.1-9.3](https://www.youtube.com/watch?v=o9sgjuh-CBM) and [9.22](https://www.youtube.com/watch?v=76fiD5DvzeQ)
+
+**Assignment due Wed July 13:**
+- DO (if you haven't already)
+    - Sign up for a free [Miro account](https://miro.com) (our interactive whiteboard).
+    - Have a place online to post your homework with the ability for me to provide support and feedback comments. This could be a website/blog, Notion page, or even a Google document. If you’re not sure what to use, please reach out to me so I can help.
+    - **Update to the latest version of Zoom** so that we can take advantage of the latest features.
+- PRACTICE • Test yourself with questions 1-3 for the [Week 1 Assignment](https://docs.google.com/document/d/1nV9bhgptIzlEco8nJk_upxmv6-ghidhMoLpvjRCDAgw/edit)
+- READ • [Learning to Learn (to program)](https://teachinglondoncomputing.org/learning-to-learn-to-program/) by Paul Curzon
+- WATCH • [Coding Train Videos 2.1-2.5](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about variables, `random()`, and `map()` ~1hr
