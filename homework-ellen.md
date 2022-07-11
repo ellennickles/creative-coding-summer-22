@@ -30,6 +30,7 @@ There are programming exercises and tutorials to complete each week:
     - What worked?
     - What didn’t work, and what steps did you take to try to solve the issue?
     - Did any code-related questions come up for you?
+    - Be sure to [cite](https://github.com/ellennickles/creative-coding-summer-22#statement-on-the-use-of-free-and-open-source-materials-including-code) any sources that you used.
 
 A big part of learning in the IMA Low Res program is learning from each other. Share your work and in return you'll see everyone else's!
 
