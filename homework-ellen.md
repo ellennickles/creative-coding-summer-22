@@ -61,9 +61,9 @@ A big part of learning in the IMA Low Res program is learning from each other. S
 - What are p5 functions?
 - What are variables and how can we use them?
 
-### **Class 1 • Mon July 11 • Introduction**
+### Class 1 • Mon July 11 • Introduction
 
-**In class:**
+#### In class:
 - Welcome!
 - Communicating in Zoom
 - Why creative coding?
@@ -74,7 +74,7 @@ A big part of learning in the IMA Low Res program is learning from each other. S
 - Course overview
 - Tips for learning to code
 
-**Resources and examples:** 
+#### Resources and examples:
 - HTML, CSS, JavaScript / p5.js [Website Demos](https://ellennickles.github.io/demos/) | [Code](https://github.com/ellennickles/demos)
 - Drawing curves
     - [p5 Learn: Arcs and Curves](https://p5js.org/learn/curves.html)
@@ -83,7 +83,7 @@ A big part of learning in the IMA Low Res program is learning from each other. S
 - Rotating and drawing custom shapes
     - [Coding Train Videos 9.1-9.3](https://www.youtube.com/watch?v=o9sgjuh-CBM) and [9.22](https://www.youtube.com/watch?v=76fiD5DvzeQ)
 
-**Assignment due Wed July 13:**
+#### Assignment due Wed July 13:
 - DO (if you haven't already)
     - Sign up for a free [Miro account](https://miro.com) (our interactive whiteboard).
     - Have a place online to post your homework with the ability for me to provide support and feedback comments. This could be a website/blog, Notion page, or even a Google document. If you’re not sure what to use, please reach out to me so I can help.
