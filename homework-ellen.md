@@ -92,9 +92,9 @@ A big part of learning in the IMA Low Res program is learning from each other. S
 - READ • [Learning to Learn (to program)](https://teachinglondoncomputing.org/learning-to-learn-to-program/) by Paul Curzon
 - WATCH • [Coding Train Videos 2.1-2.5](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about variables, `random()`, and `map()` ~1hr
 
-### **Class 2 • Wed July 13 • Animation: Variables**
+### Class 2 • Wed July 13 • Animation: Variables
 
-####In class:
+#### In class:
 - Using the Console
 - Introduction to variables
 - `setup()` vs `draw()`
