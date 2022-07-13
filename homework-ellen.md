@@ -105,7 +105,7 @@ A big part of learning in the IMA Low Res program is learning from each other. S
 - [console.log with variables](https://editor.p5js.org/enickles/sketches/ViqWkAH4T)
 - [animated shape](https://editor.p5js.org/enickles/sketches/G2q2wk0be)
 - [variable scope](https://editor.p5js.org/enickles/sketches/L1hLKDcvz)
-- [order of operations](https://editor.p5js.org/enickles/sketches/wX-921qM-)
+- [style settings in `draw()`](https://editor.p5js.org/enickles/sketches/wX-921qM-)
 - [responsive rect](https://editor.p5js.org/enickles/sketches/9R94OEK0R)
 
 #### Assignment due Mon July 18:
