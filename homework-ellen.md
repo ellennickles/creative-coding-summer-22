@@ -91,3 +91,24 @@ A big part of learning in the IMA Low Res program is learning from each other. S
 - PRACTICE • Test yourself with questions 1-3 for the [Week 1 Assignment](https://docs.google.com/document/d/1nV9bhgptIzlEco8nJk_upxmv6-ghidhMoLpvjRCDAgw/edit)
 - READ • [Learning to Learn (to program)](https://teachinglondoncomputing.org/learning-to-learn-to-program/) by Paul Curzon
 - WATCH • [Coding Train Videos 2.1-2.5](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about variables, `random()`, and `map()` ~1hr
+
+### **Class 2 • Wed July 13 • Animation: Variables**
+
+####In class:
+- Using the Console
+- Introduction to variables
+- `setup()` vs `draw()`
+- Animating shapes
+- p5's system variables
+
+#### Examples:
+- [console.log with variables](https://editor.p5js.org/enickles/sketches/ViqWkAH4T)
+- [animated shape](https://editor.p5js.org/enickles/sketches/G2q2wk0be)
+- [variable scope](https://editor.p5js.org/enickles/sketches/L1hLKDcvz)
+- [order of operations](https://editor.p5js.org/enickles/sketches/wX-921qM-)
+- [responsive rect](https://editor.p5js.org/enickles/sketches/9R94OEK0R)
+
+#### Assignment due Mon July 18:
+- WATCH (OPTIONAL) • [Coding Train Videos 16.1-16.2](https://www.youtube.com/watch?v=q8SHaDQdul0) about keywords let, var, and const ~20 min
+- PRACTICE & CREATE • Test yourself with questions 4-6 and complete Creative Assignment #1: Opposites for the [Week 1 Assignment](https://docs.google.com/document/d/1nV9bhgptIzlEco8nJk_upxmv6-ghidhMoLpvjRCDAgw/edit)
+- WATCH • [Coding Train Videos 3.1-4.2](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about conditional statements and loops ~1hr 25min
