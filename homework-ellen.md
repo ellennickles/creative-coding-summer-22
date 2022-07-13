@@ -95,7 +95,7 @@ A big part of learning in the IMA Low Res program is learning from each other. S
 ### Class 2 • Wed July 13 • Animation: Variables
 
 #### In class:
-- Using the Console
+- Logging values to the Console
 - Introduction to variables
 - `setup()` vs `draw()`
 - Animating shapes
