@@ -55,7 +55,7 @@ A big part of learning in the IMA Low Res program is learning from each other. S
 
 ## Week 1 • Introduction and Animation
 
-**Key questions:**
+#### Key questions:
 - What is creative coding and what can we do with it?
 - What is p5?
 - What are p5 functions?
@@ -115,7 +115,7 @@ A big part of learning in the IMA Low Res program is learning from each other. S
 
 ## Week 2 • Interaction and Repetition
 
-**Key questions:**
+#### Key questions:
 - How can we use conditional statements to interact with our p5 sketches even more? 
 - How can we use loops to make our programs do all the work?
 
