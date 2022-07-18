@@ -112,3 +112,28 @@ A big part of learning in the IMA Low Res program is learning from each other. S
 - WATCH (OPTIONAL) • [Coding Train Videos 16.1-16.2](https://www.youtube.com/watch?v=q8SHaDQdul0) about keywords let, var, and const ~20 min
 - PRACTICE & CREATE • Test yourself with questions 4-6 and complete Creative Assignment #1: Opposites for the [Week 1 Assignment](https://docs.google.com/document/d/1nV9bhgptIzlEco8nJk_upxmv6-ghidhMoLpvjRCDAgw/edit)
 - WATCH • [Coding Train Videos 3.1-4.2](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about conditional statements and loops ~1hr 25min
+
+## Week 2 • Interaction and Repetition
+
+**Key questions:**
+- How can we use conditional statements to interact with our p5 sketches even more? 
+- How can we use loops to make our programs do all the work?
+
+### Class 1 • Mon July 18 • Conditional Statements
+
+#### In class:
+- Share our homework assignments
+- Relational expressions and conditional statements
+- Boolean variables
+- Combining expressions
+
+#### Examples:
+- [opposites: order vs chaos](https://editor.p5js.org/enickles/sketches/Ms-xcT_n-)
+- [random number generator](https://editor.p5js.org/enickles/sketches/UQ5tmREBd)
+- [opposites: order vs chaos with reset](https://editor.p5js.org/enickles/sketches/9Oj0Uvf7G)
+- [checking multiple conditions, hover columns](https://editor.p5js.org/enickles/sketches/xlOAzoIJE)
+- [Boolean variables with if statements](https://editor.p5js.org/enickles/sketches/7AfzDSfEk)
+- [toggle switch](https://editor.p5js.org/enickles/sketches/AapC6PyaX)
+
+**Homework assignment due Wed July 20:**
+- PRACTICE • Test yourself with questions 1-3 for the [Worksheet 2 Assignment](https://docs.google.com/document/d/16AK--CcMfAJVxG_zXHgsjn0OJ8LOwH5T4oSgmM5guQ0/edit)
