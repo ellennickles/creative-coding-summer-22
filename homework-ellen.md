@@ -138,7 +138,7 @@ A big part of learning in the IMA Low Res program is learning from each other. S
 **Homework assignment due Wed July 20:**
 - PRACTICE • Test yourself with questions 1-3 for the [Worksheet 2 Assignment](https://docs.google.com/document/d/16AK--CcMfAJVxG_zXHgsjn0OJ8LOwH5T4oSgmM5guQ0/edit)
 
-#### Class 2 • Wed July 20 • Iterative Statements (Loops)
+### Class 2 • Wed July 20 • Iterative Statements (Loops)
 
 #### In class:
 - More with conditional statements
