@@ -137,3 +137,20 @@ A big part of learning in the IMA Low Res program is learning from each other. S
 
 **Homework assignment due Wed July 20:**
 - PRACTICE • Test yourself with questions 1-3 for the [Worksheet 2 Assignment](https://docs.google.com/document/d/16AK--CcMfAJVxG_zXHgsjn0OJ8LOwH5T4oSgmM5guQ0/edit)
+
+#### Class 2 • Wed July 20 • Iterative Statements (Loops)
+
+#### In class:
+- More with conditional statements
+- Introduction to loops
+- Creative coding examples
+
+#### Examples:
+- [bouncing ball](https://editor.p5js.org/enickles/sketches/gvUmnBF69)
+- [anatomy of a for loop](https://editor.p5js.org/enickles/sketches/_CfQREoRR)
+- [drawing columns with a for loop](https://editor.p5js.org/enickles/sketches/OizQUrhBN)
+- [For Loop Visualization Designed and Coded by Roy Yang](https://editor.p5js.org/Mustard-Roy/full/QHkGnGqtx)
+
+#### Homework assignment due Mon July 25:
+- PRACTICE & CREATE • Test yourself with questions 4-6 and complete Creative Assignment #2: Patterns for the [Week 2 Assignment](https://docs.google.com/document/d/16AK--CcMfAJVxG_zXHgsjn0OJ8LOwH5T4oSgmM5guQ0/edit)
+- WATCH • [Coding Train Videos 5.1-5.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about functions and [Videos 7.1-7.2](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about arrays ~55 min
