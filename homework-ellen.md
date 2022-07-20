@@ -146,9 +146,10 @@ A big part of learning in the IMA Low Res program is learning from each other. S
 - Creative coding examples
 
 #### Examples:
-- [bouncing ball](https://editor.p5js.org/enickles/sketches/gvUmnBF69)
+- [example hover button solution](https://editor.p5js.org/enickles/sketches/vnoydIPm5)
 - [anatomy of a for loop](https://editor.p5js.org/enickles/sketches/_CfQREoRR)
-- [drawing columns with a for loop](https://editor.p5js.org/enickles/sketches/OizQUrhBN)
+- [drawing columns with a for loop - counting by columns](https://editor.p5js.org/enickles/sketches/OizQUrhBN)
+- [drawing columns with a for loop - counting by pixels](https://editor.p5js.org/enickles/sketches/R8Itell_P)
 - [For Loop Visualization Designed and Coded by Roy Yang](https://editor.p5js.org/Mustard-Roy/full/QHkGnGqtx)
 
 #### Homework assignment due Mon July 25:
