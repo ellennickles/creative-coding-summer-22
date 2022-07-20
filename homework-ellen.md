@@ -141,7 +141,7 @@ A big part of learning in the IMA Low Res program is learning from each other. S
 ### Class 2 • Wed July 20 • Iterative Statements (Loops)
 
 #### In class:
-- More with conditional statements
+- Review conditional statements
 - Introduction to loops
 - Creative coding examples
 
