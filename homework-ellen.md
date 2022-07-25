@@ -178,4 +178,4 @@ A big part of learning in the IMA Low Res program is learning from each other. S
 - [while loop vs for loop](https://editor.p5js.org/enickles/sketches/tls_E69fI)
 
 #### Homework assignment due Wed July 27:
-- PRACTICE - Test yourself with questions 1-3 for the [Week 3 Assignment]([https://docs.google.com/document/d/1Ym-zlbP-xMsYH4q3kVW11Uq0JS8CRSh2KchWY18INiY/edit?usp=sharing](https://docs.google.com/document/d/1UQU_DxwGKv_Uu-q2spRdl-CpBS7WQzvVtowce3oP8zU/edit)
+- PRACTICE - Test yourself with questions 1-3 for the [Week 3 Assignment](https://docs.google.com/document/d/1Ym-zlbP-xMsYH4q3kVW11Uq0JS8CRSh2KchWY18INiY/edit?usp=sharing](https://docs.google.com/document/d/1UQU_DxwGKv_Uu-q2spRdl-CpBS7WQzvVtowce3oP8zU/edit)
