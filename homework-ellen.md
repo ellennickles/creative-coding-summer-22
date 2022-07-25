@@ -14,7 +14,7 @@
 - [Pre-Work Assignment and Drawing in p5](https://github.com/ellennickles/creative-coding-summer-22/blob/main/homework-ellen.md#pre-work-assignment-and-drawing-in-p5)
 - [Week 1 • Introduction and Animation](https://github.com/ellennickles/creative-coding-summer-22/blob/main/homework-ellen.md#week-1--introduction-and-animation) 
 - [Week 2 • Interaction and Repetition](https://github.com/ellennickles/creative-coding-summer-22/blob/main/homework-ellen.md#week-2--interaction-and-repetition)
-- [Week 3 • Review and Organization]()
+- [Week 3 • Review and Organization](https://github.com/ellennickles/creative-coding-summer-22/blob/main/homework-ellen.md#week-3--review-and-organization)
 - Week 4 • More Repetition and Media
 - Week 5 • More Media and Final Project
 
