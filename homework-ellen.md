@@ -14,7 +14,7 @@
 - [Pre-Work Assignment and Drawing in p5](https://github.com/ellennickles/creative-coding-summer-22/blob/main/homework-ellen.md#pre-work-assignment-and-drawing-in-p5)
 - [Week 1 • Introduction and Animation](https://github.com/ellennickles/creative-coding-summer-22/blob/main/homework-ellen.md#week-1--introduction-and-animation) 
 - [Week 2 • Interaction and Repetition](https://github.com/ellennickles/creative-coding-summer-22/blob/main/homework-ellen.md#week-2--interaction-and-repetition)
-- Week 3 • Review and Organization
+- [Week 3 • Review and Organization]()
 - Week 4 • More Repetition and Media
 - Week 5 • More Media and Final Project
 
@@ -155,3 +155,27 @@ A big part of learning in the IMA Low Res program is learning from each other. S
 #### Homework assignment due Mon July 25:
 - PRACTICE & CREATE • Test yourself with questions 4-6 and complete Creative Assignment #2: Patterns for the [Week 2 Assignment](https://docs.google.com/document/d/16AK--CcMfAJVxG_zXHgsjn0OJ8LOwH5T4oSgmM5guQ0/edit)
 - WATCH • [Coding Train Videos 5.1-5.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about functions and [Videos 7.1-7.2](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about arrays ~55 min
+
+## Week 3 • Review and Organization
+
+**Key questions:**
+- What are arrays?
+- What do the for loop and the while loop have in common? What's different?
+
+### Class 1 • Mon July 25 • Arrays & Review
+
+#### In class:
+- Introduction to arrays
+- Share our homework assignments (1/2 class)
+- Review bouncing ball
+- while loop vs for loop
+- Preview upcoming weeks
+- Anonymous check-in survey
+
+#### Examples:
+- [name generator part 1](https://editor.p5js.org/enickles/sketches/TbjYVp7MT)
+- [bouncing ball](https://editor.p5js.org/enickles/sketches/gvUmnBF69)
+- [while loop vs for loop](https://editor.p5js.org/enickles/sketches/tls_E69fI)
+
+#### Homework assignment due Wed July 27:
+- PRACTICE - Test yourself with questions 1-3 for the [Week 3 Assignment](https://docs.google.com/document/d/1Ym-zlbP-xMsYH4q3kVW11Uq0JS8CRSh2KchWY18INiY/edit?usp=sharing)
