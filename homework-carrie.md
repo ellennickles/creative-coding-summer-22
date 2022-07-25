@@ -131,7 +131,7 @@ All homework assignments are due at 8:00am New York Time on the day of our class
 * Summary, preview, and homework assignment.
 
 #### Homework Assignment:
-* Add one piece of art or design work that inspires you on the [wiki page](https://github.com/ellennickles/creative-coding-summer-22/wiki).
+* Add one piece of art or design work that inspires you to the [google doc](https://docs.google.com/document/d/1VyIhL6Qu1eTGh6WDtUUoGwv8S0dfp3OSGoMixABzjng/edit?usp=sharing).
   * Be prepared to share something about it in class. 
   * Tell us what the project is about. Why do you like it? What role does technology play in this project? 
   * Do you imagine creating something inspired by this in the near future? 
