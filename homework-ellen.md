@@ -176,6 +176,7 @@ A big part of learning in the IMA Low Res program is learning from each other. S
 - [name generator part 1](https://editor.p5js.org/enickles/sketches/TbjYVp7MT)
 - [bouncing ball](https://editor.p5js.org/enickles/sketches/gvUmnBF69)
 - [while loop vs for loop](https://editor.p5js.org/enickles/sketches/tls_E69fI)
+- (Video) [Making Simple Patterns in p5.js](https://www.youtube.com/watch?v=ig0q6vfpD38) from Steve's Makerspace
 
 #### Homework assignment due Wed July 27:
 - PRACTICE - Test yourself with questions 1-3 for the [Week 3 Assignment](https://docs.google.com/document/d/1UQU_DxwGKv_Uu-q2spRdl-CpBS7WQzvVtowce3oP8zU/edit)
