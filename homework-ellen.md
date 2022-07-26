@@ -118,6 +118,7 @@ A big part of learning in the IMA Low Res program is learning from each other. S
 #### Key questions:
 - How can we use conditional statements to interact with our p5 sketches even more? 
 - How can we use loops to make our programs do all the work?
+- How can we organize our code into functions?
 
 ### Class 1 • Mon July 18 • Conditional Statements
 
