@@ -190,7 +190,10 @@ A big part of learning in the IMA Low Res program is learning from each other. S
 - Functions that calculate values for us
 
 #### Examples:
-- TBA
+- [face with functions v1](https://editor.p5js.org/enickles/sketches/FfBQAqrhG)
+- [face with functions v2](https://editor.p5js.org/enickles/sketches/agYYRnNsU)
+- [p5 functions that return values](https://editor.p5js.org/enickles/sketches/ONKMWZR_2)
+- [generic bounce function](https://editor.p5js.org/enickles/sketches/zXI2i06zM)
 
 #### Homework assignment due Mon Aug 1:
 - PRACTICE & CREATE • Test yourself with the new practice questions and complete Creative Assignment #3: Time for the [Week 3 Assignment](https://docs.google.com/document/d/1UQU_DxwGKv_Uu-q2spRdl-CpBS7WQzvVtowce3oP8zU/edit)
