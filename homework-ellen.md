@@ -190,6 +190,7 @@ A big part of learning in the IMA Low Res program is learning from each other. S
 - Functions that calculate values for us
 
 #### Examples:
+- [face without functions](https://editor.p5js.org/enickles/sketches/K20xzi1uv)
 - [face with functions v1](https://editor.p5js.org/enickles/sketches/FfBQAqrhG)
 - [face with functions v2](https://editor.p5js.org/enickles/sketches/agYYRnNsU)
 - [p5 functions that return values](https://editor.p5js.org/enickles/sketches/ONKMWZR_2)
