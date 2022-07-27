@@ -196,6 +196,6 @@ A big part of learning in the IMA Low Res program is learning from each other. S
 - [generic bounce function](https://editor.p5js.org/enickles/sketches/zXI2i06zM)
 
 #### Homework assignment due Mon Aug 1:
-- PRACTICE & CREATE • Test yourself with the new practice questions and complete Creative Assignment #3: Time for the [Week 3 Assignment](https://docs.google.com/document/d/1UQU_DxwGKv_Uu-q2spRdl-CpBS7WQzvVtowce3oP8zU/edit)
+- PRACTICE & CREATE • Test yourself with questions 4-5 and complete Creative Assignment #3: Time for the [Week 3 Assignment](https://docs.google.com/document/d/1UQU_DxwGKv_Uu-q2spRdl-CpBS7WQzvVtowce3oP8zU/edit)
 - WATCH • [Coding Train Videos 6.2-6.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) and [7.3-7.5](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about writing classes to create many objects and interacting with those objects using the mouse ~1 hr 10 min
 - WATCH (OPTIONAL) • [Coding Train Videos 7.6-7.7](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about objects communicating with each other ~30 min
