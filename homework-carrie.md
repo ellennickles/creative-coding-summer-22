@@ -122,7 +122,7 @@ All homework assignments are due at 8:00am New York Time on the day of our class
 * What are arrays and what can we do with them?
 
 ### // Class 01 // July 25 // Homework Sharing and Functions
-[Slides](https://docs.google.com/document/d/15Dd9mtdUI-UbF02Etvbs1KInqMAEYTQ6xIkbooZrvLk/edit?usp=sharing)
+[Slides](https://docs.google.com/presentation/d/1LScn6buX4tK6M-BEXR92xSIDFOzWFZC2-kP672GvLPo/edit?usp=sharing)
 
 #### In class:
 * Share creative assignment #2.
