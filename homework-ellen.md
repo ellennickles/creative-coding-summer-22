@@ -15,7 +15,7 @@
 - [Week 1 • Introduction and Animation](https://github.com/ellennickles/creative-coding-summer-22/blob/main/homework-ellen.md#week-1--introduction-and-animation) 
 - [Week 2 • Interaction and Repetition](https://github.com/ellennickles/creative-coding-summer-22/blob/main/homework-ellen.md#week-2--interaction-and-repetition)
 - [Week 3 • Review and Organization](https://github.com/ellennickles/creative-coding-summer-22/blob/main/homework-ellen.md#week-3--review-and-organization)
-- Week 4 • More Repetition and Media
+- [Week 4 • More Repetition and Media](https://github.com/ellennickles/creative-coding-summer-22/blob/main/homework-ellen.md#week-4--more-repetition-and-media)
 - Week 5 • More Media and Final Project
 
 
