@@ -220,7 +220,7 @@ A big part of learning in the IMA Low Res program is learning from each other. S
 - [ripples in a pond](https://editor.p5js.org/enickles/sketches/J5XBMzcaw)
 
 #### Homework assignment due Wed Aug 3:
-- PRACTICE • Test yourself questions 1-2 in the [Week 4 Assignment](https://docs.google.com/document/d/1iNSzfOgYqbk7kFDQ2LNphOyqbFtmZZo09MtAzvWkHtM/edit)
+- PRACTICE • Test yourself with questions 1-2 in the [Week 4 Assignment](https://docs.google.com/document/d/1iNSzfOgYqbk7kFDQ2LNphOyqbFtmZZo09MtAzvWkHtM/edit)
 - FINAL PROJECT
     - Read the guidelines for the [Final Project Assignment](https://docs.google.com/document/d/1-vjyPZuC79dPPHuamwj_EuzDSU2KDyioMCyGHrQjYSA/edit)
     - Think about what you want to make for your final project. Add [one (1) slide to this deck](https://docs.google.com/presentation/d/14xlNMwBiWxuAFQjtHg5QBTpDMIbhwySzsltvBN-nvu4/edit#slide=id.p) to share your proposal. Include any inspirations and source materials (drawings, images, text, etc.) to help describe your idea. Everyone will have two (2) minutes each to share in our next class.
