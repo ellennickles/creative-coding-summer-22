@@ -200,3 +200,27 @@ A big part of learning in the IMA Low Res program is learning from each other. S
 - PRACTICE & CREATE • Test yourself with questions 4-5 and complete Creative Assignment #3: Time for the [Week 3 Assignment](https://docs.google.com/document/d/1UQU_DxwGKv_Uu-q2spRdl-CpBS7WQzvVtowce3oP8zU/edit)
 - WATCH • [Coding Train Videos 6.2-6.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) and [7.3-7.5](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about writing classes to create many objects and interacting with those objects using the mouse ~1 hr 10 min
 - WATCH (OPTIONAL) • [Coding Train Videos 7.6-7.7](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about objects communicating with each other ~30 min
+
+## Week 4 • More Repetition and Media
+
+**Key questions:**
+- How can we create multiple objects with a special function known as a class?
+- What are some ways to get started with media?
+
+### Class 1 • Mon Aug 1 • Making Objects with a Class
+
+#### In class:
+- Share our homework assignments (1/2 class)
+- Introduction to classes to make objects
+- Objects with arrays and loops
+
+#### Examples:
+- [name generator part 2](https://editor.p5js.org/enickles/sketches/LGVmZ0Jph)
+- [make objects with a class](https://editor.p5js.org/enickles/sketches/GZzAWfv13)
+- [ripples in a pond](https://editor.p5js.org/enickles/sketches/J5XBMzcaw)
+
+#### Homework assignment due Wed Aug 3:
+- PRACTICE • Test yourself questions 1-2 in the [Week 4 Assignment](https://docs.google.com/document/d/1iNSzfOgYqbk7kFDQ2LNphOyqbFtmZZo09MtAzvWkHtM/edit)
+- FINAL PROJECT
+    - Read the guidelines for the [Final Project Assignment](https://docs.google.com/document/d/1-vjyPZuC79dPPHuamwj_EuzDSU2KDyioMCyGHrQjYSA/edit)
+    - Think about what you want to make for your final project. Add [one (1) slide to this deck](https://docs.google.com/presentation/d/14xlNMwBiWxuAFQjtHg5QBTpDMIbhwySzsltvBN-nvu4/edit#slide=id.p) to share your proposal. Include any inspirations and source materials (drawings, images, text, etc.) to help describe your idea. Everyone will have two (2) minutes each to share in our next class.
