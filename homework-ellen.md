@@ -237,7 +237,7 @@ A big part of learning in the IMA Low Res program is learning from each other. S
 - [webcam input](https://editor.p5js.org/enickles/sketches/nVvxLHh65) | [Carrie's webcam rainbow grid](https://editor.p5js.org/enickles/sketches/Bmbu_PyxD)
 
 #### Homework assignment due Mon Aug 8:
-- FINAL PROJECT • Review the [Final Project Assignment](https://docs.google.com/document/d/1-vjyPZuC79dPPHuamwj_EuzDSU2KDyioMCyGHrQjYSA/edit) guideines and start working on your project. Be prepared to share your progress on Monday. Aim to have a working prototype. Think about what kind of feedback will be the most useful for your project's development.
+- FINAL PROJECT • Review the [Final Project Assignment](https://docs.google.com/document/d/1-vjyPZuC79dPPHuamwj_EuzDSU2KDyioMCyGHrQjYSA/edit) guideines and start working on your project. Be prepared to share your progress on Monday. Aim to have a working prototype. Consider the kind of feedback that will be most useful for your project's development.
 - WATCH (OPTIONAL) • Explore for your final project:  
     - [Coding Train Video 17.8](https://www.youtube.com/watch?v=q2IDNkUws-A&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW&index=8) on microphone input ~7 min
     - [Coding Train Videos 17.1-17.5](https://www.youtube.com/watch?v=Pn1g1wjxl_0&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW) on working with sound files ~1 hr
