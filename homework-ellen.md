@@ -224,3 +224,25 @@ A big part of learning in the IMA Low Res program is learning from each other. S
 - FINAL PROJECT
     - Read the guidelines for the [Final Project Assignment](https://docs.google.com/document/d/1-vjyPZuC79dPPHuamwj_EuzDSU2KDyioMCyGHrQjYSA/edit)
     - Think about what you want to make for your final project. Add [one (1) slide to this deck](https://docs.google.com/presentation/d/14xlNMwBiWxuAFQjtHg5QBTpDMIbhwySzsltvBN-nvu4/edit#slide=id.p) to share your proposal. Include any inspirations and source materials (drawings, images, text, etc.) to help describe your idea. Everyone will have two (2) minutes each to share in our next class.
+
+### Class 2 • Wed Aug 3 • Media and Final Project Ideas
+
+#### In class:
+- Media demos: mic input, sound files, images, and webcam
+- Share final project ideas
+
+#### Examples:
+- [visualizing mic input](https://editor.p5js.org/enickles/sketches/1qohU_t7J) | [getting started with sound files](https://editor.p5js.org/enickles/sketches/0l2ok-DUk) | [mouse click sounds in array](https://editor.p5js.org/enickles/sketches/euvwMR8eR) | [columns with sounds](https://editor.p5js.org/enickles/sketches/G9U9Q31ZT) | [creative coding sound-based examples](https://github.com/ellennickles/creative-coding-summer-22/wiki#sound)
+- [getting started with images](https://editor.p5js.org/enickles/sketches/7Ma0NhxYD) | [animating and interacting with images](https://editor.p5js.org/enickles/sketches/eQS-jeFZ7) | [peblio demo: load GIFs into p5](https://demo.peblio.co/pebl/b6F-rrWDF)
+- [webcam input](https://editor.p5js.org/enickles/sketches/nVvxLHh65) | [Carrie's webcam rainbow grid](https://editor.p5js.org/enickles/sketches/Bmbu_PyxD)
+
+#### Homework assignment due Mon Aug 8:
+- FINAL PROJECT • Review the [Final Project Assignment](https://docs.google.com/document/d/1-vjyPZuC79dPPHuamwj_EuzDSU2KDyioMCyGHrQjYSA/edit) guideines and start working on your project. Be prepared to share your progress on Monday.
+- WATCH (OPTIONAL) • Explore for your final project:  
+    - [Coding Train Video 17.8](https://www.youtube.com/watch?v=q2IDNkUws-A&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW&index=8) on microphone input ~7 min
+    - [Coding Train Videos 17.1-17.5](https://www.youtube.com/watch?v=Pn1g1wjxl_0&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW) on working with sound files ~1 hr
+    - [Coding Train Videos 17.6-17.7](https://www.youtube.com/watch?v=Pn1g1wjxl_0&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW) on sound synthesis ~26 min
+     - [Coding Train Videos 17.9-17.11](https://www.youtube.com/watch?v=Pn1g1wjxl_0&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW) on sound visualization ~35 min
+    - [Coding Train Video 7.8](https://www.youtube.com/watch?v=i2C1hrJMwz0&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=36&t=821s) on adding images to objects ~17 min
+    - [Coding Train Video 11.1](https://www.youtube.com/watch?v=bkGf4fEHKak&list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig&index=3) on capturing your webcam ~10 min
+    - [Coding Train Videos 11.2-11.5 and 11.8](https://github.com/ITPNYU/ICM-2020-Media/blob/master/weeks/01_pixels.md) on pixel mirrors and photobooths ~1 hr 10 min
