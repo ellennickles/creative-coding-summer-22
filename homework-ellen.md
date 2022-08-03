@@ -16,7 +16,7 @@
 - [Week 2 • Interaction and Repetition](https://github.com/ellennickles/creative-coding-summer-22/blob/main/homework-ellen.md#week-2--interaction-and-repetition)
 - [Week 3 • Review and Organization](https://github.com/ellennickles/creative-coding-summer-22/blob/main/homework-ellen.md#week-3--review-and-organization)
 - [Week 4 • More Repetition and Media](https://github.com/ellennickles/creative-coding-summer-22/blob/main/homework-ellen.md#week-4--more-repetition-and-media)
-- Week 5 • More Media and Final Project
+- [Week 5 • Final Projects](https://github.com/ellennickles/creative-coding-summer-22/edit/main/homework-ellen.md#week-5--final-projects)
 
 
 ## Weekly Assignment Guidelines
@@ -246,3 +246,31 @@ A big part of learning in the IMA Low Res program is learning from each other. S
     - [Coding Train Video 7.8](https://www.youtube.com/watch?v=i2C1hrJMwz0&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=36&t=821s) on adding images to objects ~17 min
     - [Coding Train Video 11.1](https://www.youtube.com/watch?v=bkGf4fEHKak&list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig&index=3) on capturing your webcam ~10 min
     - [Coding Train Videos 11.2-11.5 and 11.8](https://github.com/ITPNYU/ICM-2020-Media/blob/master/weeks/01_pixels.md) on pixel mirrors and photobooths ~1 hr 10 min
+
+## Week 5 • Final Projects
+
+**Key question:**
+- How can we talk about our final projects using the programming concepts and vocabulary from this course?
+
+### Class 1 • Mon Aug 8 • Final Project Progress and Studio
+
+#### In class:
+- First half
+    - Final project check-ins
+    - Talk about Wednesday's presentations
+- Second half
+    - Main room: review topics (and introduce new ones if time) with Ellen
+    - Breakout room to work on your final project with a resident available to answer technical questions
+    - Move back and forth between the rooms as you like!
+
+#### Homework assignment due Wed Aug 10 by the start of class at 10:30am ET:
+- Review the expectations for the [Final Project Assignment](https://docs.google.com/document/d/1-vjyPZuC79dPPHuamwj_EuzDSU2KDyioMCyGHrQjYSA/edit)
+- Complete your final project, document it, and prepare to share the project in class. 
+- Submit you project [here](https://docs.google.com/document/d/1-vjyPZuC79dPPHuamwj_EuzDSU2KDyioMCyGHrQjYSA/edit)
+
+### Class 2 • Wed Aug 10 • Final Project Presentations 🙌
+
+#### In class:
+- Welcome and general notes
+- Final project presentations
+- Reminder to complete the [course evaluation form](https://m.albert.nyu.edu/app/student/nyuCrseEval/crseEval/1226/6783/T_ITP/10) between Thurs Aug 11 to Wed Aug 17
