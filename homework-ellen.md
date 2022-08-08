@@ -263,6 +263,13 @@ A big part of learning in the IMA Low Res program is learning from each other. S
     - Breakout room to work on your final project with a resident available to answer technical questions
     - Move back and forth between the rooms as you like!
 
+#### Examples:
+- [Ever-changing columns](https://editor.p5js.org/enickles/sketches/orfTlLTAl)
+- [button to change background color](https://editor.p5js.org/enickles/sketches/hhMMjAqq9)
+- [buttons to draw circles and also clear](https://editor.p5js.org/enickles/sketches/3-LF4ipwg)
+- [slider to change background color](https://editor.p5js.org/enickles/sketches/hgEiqIFSl)
+- [slider to control size of circle](https://editor.p5js.org/enickles/sketches/c471Rslcq)
+
 #### Homework assignment due Wed Aug 10 by the start of class at 10:30am ET:
 - Review the expectations for the [Final Project Assignment](https://docs.google.com/document/d/1-vjyPZuC79dPPHuamwj_EuzDSU2KDyioMCyGHrQjYSA/edit)
 - Complete your final project, document it, and prepare to share the project in class. 
