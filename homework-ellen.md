@@ -266,7 +266,7 @@ A big part of learning in the IMA Low Res program is learning from each other. S
 #### Examples:
 - [Ever-changing columns](https://editor.p5js.org/enickles/sketches/orfTlLTAl)
 - [button to change background color](https://editor.p5js.org/enickles/sketches/hhMMjAqq9)
-- [buttons to draw circles and also clear](https://editor.p5js.org/enickles/sketches/3-LF4ipwg)
+- [buttons to draw circles and clear](https://editor.p5js.org/enickles/sketches/3-LF4ipwg)
 - [slider to change background color](https://editor.p5js.org/enickles/sketches/hgEiqIFSl)
 - [slider to control size of circle](https://editor.p5js.org/enickles/sketches/c471Rslcq)
 
