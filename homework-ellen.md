@@ -273,7 +273,7 @@ A big part of learning in the IMA Low Res program is learning from each other. S
 #### Homework assignment due Wed Aug 10 by the start of class at 10:30am ET:
 - Review the expectations for the [Final Project Assignment](https://docs.google.com/document/d/1-vjyPZuC79dPPHuamwj_EuzDSU2KDyioMCyGHrQjYSA/edit)
 - Complete your final project, document it, and prepare to share the project in class. 
-- Submit you project [here](https://docs.google.com/document/d/1-vjyPZuC79dPPHuamwj_EuzDSU2KDyioMCyGHrQjYSA/edit)
+- Submit your project [here](https://docs.google.com/document/d/1-vjyPZuC79dPPHuamwj_EuzDSU2KDyioMCyGHrQjYSA/edit)
 
 ### Class 2 • Wed Aug 10 • Final Project Presentations 🙌
 
